@@ -511,6 +511,7 @@
 
 ## django 
 
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 - [allegro/ralph](https://github.com/allegro/ralph) - Ralph is the CMDB / Asset Management system for data center and back office hardware.
 
@@ -1151,6 +1152,8 @@
 
 ## others 
 
+- [ayman707-ux/PlayTorrio](https://github.com/ayman707-ux/PlayTorrio) - Open source complete all in one media center with Torrent fetcher and streamer
+- [assareh/home-lab](https://github.com/assareh/home-lab) - My home lab infrastructure with Nomad, Consul, and Vault
 - [tikibozo/plexarr](https://github.com/tikibozo/plexarr) - 
 - [cyb3rgh05t/plex-tautulli-dashboard](https://github.com/cyb3rgh05t/plex-tautulli-dashboard) - A modern, elegant dashboard for monitoring your Plex Media Server and Tautulli statistics, featuring a dark-themed UI with customizable displays and real-time monitoring.
 - [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
@@ -1383,6 +1386,7 @@
 
 ## python 
 
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [Dark-Violet/Dark-Violet-Editor](https://github.com/Dark-Violet/Dark-Violet-Editor) - A Delta Skin editor for Windows, Mac and Linux.
