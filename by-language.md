@@ -657,6 +657,7 @@
 
 ## Vue 
 
+- [DeanWard/CaddyGen](https://github.com/DeanWard/CaddyGen) - Simplify Caddy configs with SSL, proxies, file servers, security headers, compression & more.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
