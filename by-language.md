@@ -41,7 +41,6 @@
 - [Smarty](#smarty)
 - [Swift](#swift)
 - [TypeScript](#typescript)
-- [VBScript](#vbscript)
 - [Vim Script](#vim-script)
 - [Visual Basic](#visual-basic)
 - [Vue](#vue)
@@ -327,7 +326,7 @@
 
 ## PowerShell 
 
-- [fscorrupt/Posterizarr](https://github.com/fscorrupt/Posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
+- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [ElektroStudios/Dolphin_Emulator_RVZ_ISO_GameCube_Wii_Conversion_Scripts](https://github.com/ElektroStudios/Dolphin_Emulator_RVZ_ISO_GameCube_Wii_Conversion_Scripts) - Scripts to automate conversion between GameCube and Wii console ISO files to RVZ file format
 - [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
 - [mattifestation/WinPETools](https://github.com/mattifestation/WinPETools) - A module designed to simplify the creation, customization, and deployment of bootable Windows Preinstallation Environment (WinPE) images.
@@ -455,6 +454,7 @@
 
 ## Rust 
 
+- [mayanayza/netvisor](https://github.com/mayanayza/netvisor) - Automatically discover and visually document network infrastructure.
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
 - [smartheim/wifi-captive-rs](https://github.com/smartheim/wifi-captive-rs) - WiFi service for Linux devices that opens an access point with a captive portal for easy network configuration from your mobile phone or laptop
@@ -615,6 +615,7 @@
 
 ## TypeScript 
 
+- [OrwellianEpilogue/ephemera](https://github.com/OrwellianEpilogue/ephemera) - 
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [emmercm/igir](https://github.com/emmercm/igir) - 🕹 A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of any size on any OS.
@@ -643,10 +644,6 @@
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
-
-## VBScript 
-
-- [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 
 ## Vim Script 
 
