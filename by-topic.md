@@ -31,6 +31,7 @@
 - [code](#code)
 - [code-quality](#code-quality)
 - [coding](#coding)
+- [command-line](#command-line)
 - [computer-vision](#computer-vision)
 - [crawler](#crawler)
 - [csharp](#csharp)
@@ -428,6 +429,14 @@
 ## coding 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+## command-line 
+
+- [czoczo/BetterBash](https://github.com/czoczo/BetterBash) - A nice way to make Bash prompt more powerful!
+- [ElektroStudios/Dolphin_Emulator_RVZ_ISO_GameCube_Wii_Conversion_Scripts](https://github.com/ElektroStudios/Dolphin_Emulator_RVZ_ISO_GameCube_Wii_Conversion_Scripts) - Scripts to automate conversion between GameCube and Wii console ISO files to RVZ file format
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## computer-vision 
 
