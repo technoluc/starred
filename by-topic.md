@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [android](#android)
@@ -184,6 +185,12 @@
 - [xcode](#xcode)
 - [youtube](#youtube)
 - [zsh](#zsh)
+
+## agent 
+
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
 ## ai 
 
