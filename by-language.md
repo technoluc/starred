@@ -74,6 +74,7 @@
 
 ## C# # 
 
+- [Spottarr/Spottarr](https://github.com/Spottarr/Spottarr) - A modern spotnet client and index for your *arr apps.
 - [pennydreadful/bookshelf](https://github.com/pennydreadful/bookshelf) - A place for your books.
 - [Faustvii/Readarr](https://github.com/Faustvii/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
 - [Cirx08/WeddingShare](https://github.com/Cirx08/WeddingShare) - A place for guests to view and drop pictures of the big day
