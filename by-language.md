@@ -366,7 +366,7 @@
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [AbhaySingh71/whatsapp-chat-analyzer](https://github.com/AbhaySingh71/whatsapp-chat-analyzer) - WhatsApp Chat Analyzer is a tool designed to process and analyze WhatsApp chat exports. It helps extract key insights such as message counts, active periods, and emoji usage from group or individual c
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [Dark-Violet/Dark-Violet-Editor](https://github.com/Dark-Violet/Dark-Violet-Editor) - A Delta Skin editor for Windows, Mac and Linux.
