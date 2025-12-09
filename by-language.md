@@ -187,7 +187,6 @@
 
 ## HTML 
 
-- [ayman707-ux/PlayTorrio](https://github.com/ayman707-ux/PlayTorrio) - Open source complete all in one media center with Torrent fetcher and streamer
 - [PenningLabs/lxconsole](https://github.com/PenningLabs/lxconsole) - LXD Graphical Web Console
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
