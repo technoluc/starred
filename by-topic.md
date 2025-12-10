@@ -1223,6 +1223,7 @@
 
 ## others 
 
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [Spottarr/Spottarr](https://github.com/Spottarr/Spottarr) - A modern spotnet client and index for your *arr apps.
 - [aplaceforallmystuff/mcp-arr](https://github.com/aplaceforallmystuff/mcp-arr) - MCP server for *arr media management suite
 - [pennydreadful/bookshelf](https://github.com/pennydreadful/bookshelf) - A place for your books.
