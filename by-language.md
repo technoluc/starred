@@ -352,6 +352,7 @@
 
 ## Python 
 
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [schech1/uptime-buddy](https://github.com/schech1/uptime-buddy) - Uptime monitoring on Apple Watch
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
 - [mustbeperfect/definitive-opensource](https://github.com/mustbeperfect/definitive-opensource) - The definitive list of the best of (consumer facing) open source.
@@ -461,7 +462,7 @@
 
 ## Rust 
 
-- [mayanayza/netvisor](https://github.com/mayanayza/netvisor) - Automatically discover and visually document network infrastructure.
+- [netvisor-io/netvisor](https://github.com/netvisor-io/netvisor) - Automatically discover and visually document network infrastructure.
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
 - [smartheim/wifi-captive-rs](https://github.com/smartheim/wifi-captive-rs) - WiFi service for Linux devices that opens an access point with a captive portal for easy network configuration from your mobile phone or laptop
