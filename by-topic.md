@@ -1295,6 +1295,7 @@
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [ej52/proxmox-scripts](https://github.com/ej52/proxmox-scripts) - 
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
+- [abbodi1406/BatUtil](https://github.com/abbodi1406/BatUtil) - Collection of batch scripts utilities for Windows
 - [kendallgoto/ilo4_unlock](https://github.com/kendallgoto/ilo4_unlock) - A toolkit for patching HPE's iLO 4 Firmware with access to previously inaccessible utilities
 - [pebakery/pebakery](https://github.com/pebakery/pebakery) - PEBakery is a script engine that specializes in customizing the Windows Preinstalled Environment (WinPE/WinRE).
 - [mattifestation/WinPETools](https://github.com/mattifestation/WinPETools) - A module designed to simplify the creation, customization, and deployment of bootable Windows Preinstallation Environment (WinPE) images.
