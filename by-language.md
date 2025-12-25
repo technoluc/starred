@@ -228,7 +228,6 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mnapoli/gh-pages-compiler](https://github.com/mnapoli/gh-pages-compiler) - Automatic website generation from Markdown documentation. Deprecated! Use this instead:
 - [rhiokim/flybook](https://github.com/rhiokim/flybook) - :airplane: FlyBook is a simple utility to generate static website such as gh-pages, manual of you projects
-- [atorrescogollo/ghpages-vuepress](https://github.com/atorrescogollo/ghpages-vuepress) - Personal GitHub Pages template
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [revenz/Fenrus](https://github.com/revenz/Fenrus) - A personal home page for quick access to all your personal apps/sites.
 - [dopplertask/dopplertask](https://github.com/dopplertask/dopplertask) - A revolutionary open-source automation tool
