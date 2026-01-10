@@ -1314,7 +1314,6 @@
 - [ironmansoftware/terminal-gui-designer](https://github.com/ironmansoftware/terminal-gui-designer) - A terminal GUI designer for PowerShell.
 - [icsharpcode/WpfDesigner](https://github.com/icsharpcode/WpfDesigner) - The WPF Designer from SharpDevelop
 - [ChrisWarwick/WakeOnLan](https://github.com/ChrisWarwick/WakeOnLan) - Sends Wake-on-Lan Magic Packets to the specified Mac addresses
-- [OfficeDev/Office-IT-Pro-Deployment-Scripts](https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts) - A collection of useful PowerShell scripts to make deploying Office 2016 and Office 365 ProPlus easier for IT Pros and administrators.  If you have any feature requests or ideas for future scripts plea
 - [Lord-Kamina/SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift.
 - [davidramosweb/home-assistant-custom-components-cover-time-based](https://github.com/davidramosweb/home-assistant-custom-components-cover-time-based) - With this component you can add a time-based cover. You can set a switch to open and another to close the cover.
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
