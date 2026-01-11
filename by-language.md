@@ -43,7 +43,6 @@
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
 - [Vim Script](#vim-script)
-- [Visual Basic](#visual-basic)
 - [Vue](#vue)
 - [YAML](#yaml)
 
@@ -661,10 +660,6 @@
 
 - [springload/dotfiles](https://github.com/springload/dotfiles) - Software Installation, Configuration and Preferences for Springload
 - [karmi/dotfiles](https://github.com/karmi/dotfiles) - 
-
-## Visual Basic 
-
-- [OfficeDev/Office-IT-Pro-Deployment-Scripts](https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts) - A collection of useful PowerShell scripts to make deploying Office 2016 and Office 365 ProPlus easier for IT Pros and administrators.  If you have any feature requests or ideas for future scripts plea
 
 ## Vue 
 
