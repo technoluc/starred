@@ -273,7 +273,6 @@
 
 ## Objective-C 
 
-- [eonil/FileSystemEvents](https://github.com/eonil/FileSystemEvents) - Provides dead-simple access to FSEvents framework in Swift.
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native macOS applications from command line scripts.
 
 ## Others 
@@ -602,7 +601,6 @@
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
 - [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
 - [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
-- [eonil/FSEvents](https://github.com/eonil/FSEvents) - An unofficial wrapper around FSEvent tailored for Swift 5.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [DominatorVbN/ListStyles](https://github.com/DominatorVbN/ListStyles) - Example of all List Styles realeased in iOS 14 and macOS 11
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
