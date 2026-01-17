@@ -15,6 +15,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [GLSL](#glsl)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -145,6 +146,10 @@
 ## Elixir 
 
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
+
+## GLSL 
+
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 
 ## Go 
 
@@ -508,7 +513,6 @@
 - [dan-snelson/dialog-scripts](https://github.com/dan-snelson/dialog-scripts) - Scripts with leverage Bart Reardon's swiftDialog
 - [ralish/bash-script-template](https://github.com/ralish/bash-script-template) - A best practices Bash script template with several useful functions
 - [microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples) - Sample shell scripts for Intune admins.
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
 - [atomantic/dotfiles](https://github.com/atomantic/dotfiles) - 🖥️ Automated Configuration, Preferences and Software Installation for macOS
