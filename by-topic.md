@@ -1287,7 +1287,6 @@
 - [twostraws/HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The project source code for Hacking with iOS.
 - [simanerush/settings-tutorial](https://github.com/simanerush/settings-tutorial) - Materials for my settings tutorial
 - [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
-- [eonil/FileSystemEvents](https://github.com/eonil/FileSystemEvents) - Provides dead-simple access to FSEvents framework in Swift.
 - [DominatorVbN/ListStyles](https://github.com/DominatorVbN/ListStyles) - Example of all List Styles realeased in iOS 14 and macOS 11
 - [agentcoinorg/evo.ninja](https://github.com/agentcoinorg/evo.ninja) - A versatile generalist agent.
 - [FOLLGAD/godmode](https://github.com/FOLLGAD/godmode) - Godmode.space. Reached one million users in 3 months
