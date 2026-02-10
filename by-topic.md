@@ -840,6 +840,7 @@
 
 ## home-assistant 
 
+- [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - A powerful custom Home Assistant integration that provides comprehensive device management capabilities, allowing users to modify device attributes, reorganize entities, create virtual devices, and me
 - [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - 🌡️ Home Assistant custom integration for Tado with real API rate limit tracking
 - [johnnyo21/floorplan_3d](https://github.com/johnnyo21/floorplan_3d) - Home Assistant 3D Floorplan Card
 - [Danm72/home-assistant-automation-suggestions](https://github.com/Danm72/home-assistant-automation-suggestions) - A Home Assistant integration that analyzes your manual actions and suggests automations to create
@@ -1500,6 +1501,7 @@
 
 ## python 
 
+- [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - A powerful custom Home Assistant integration that provides comprehensive device management capabilities, allowing users to modify device attributes, reorganize entities, create virtual devices, and me
 - [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - 🌡️ Home Assistant custom integration for Tado with real API rate limit tracking
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
