@@ -360,6 +360,7 @@
 
 ## Python 
 
+- [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - A powerful custom Home Assistant integration that provides comprehensive device management capabilities, allowing users to modify device attributes, reorganize entities, create virtual devices, and me
 - [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - 🌡️ Home Assistant custom integration for Tado with real API rate limit tracking
 - [Danm72/home-assistant-automation-suggestions](https://github.com/Danm72/home-assistant-automation-suggestions) - A Home Assistant integration that analyzes your manual actions and suggests automations to create
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
