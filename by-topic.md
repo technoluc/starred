@@ -1247,6 +1247,7 @@
 
 ## others 
 
+- [wolfsoftwaresystemsltd/WolfScale](https://github.com/wolfsoftwaresystemsltd/WolfScale) - 
 - [Kibibit/hass-kibibit-theme](https://github.com/Kibibit/hass-kibibit-theme) - A milky glass theme for Home Assistant
 - [shmuelzon/home-assistant-floor-plan](https://github.com/shmuelzon/home-assistant-floor-plan) - Home Assistant Floor Plan Generator Plugin For Sweet Home 3D
 - [RiDDiX/home-assistant-matter-hub](https://github.com/RiDDiX/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
