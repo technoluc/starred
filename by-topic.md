@@ -842,6 +842,7 @@
 
 ## home-assistant 
 
+- [trashbytes/bonbon-strategy](https://github.com/trashbytes/bonbon-strategy) - A Home Assistant strategy which automatically generates a colorful dashboard.
 - [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - A powerful custom Home Assistant integration that provides comprehensive device management capabilities, allowing users to modify device attributes, reorganize entities, create virtual devices, and me
 - [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - 🌡️ Smart Tado integration with Adaptive Smart Polling, Thermal Analytics, Mold Risk Monitoring, and API Quota Reserve Protection.
 - [johnnyo21/floorplan_3d](https://github.com/johnnyo21/floorplan_3d) - Home Assistant 3D Floorplan Card
