@@ -24,6 +24,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -268,6 +269,10 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [VedantKhairnar/Cheat-Sheets](https://github.com/VedantKhairnar/Cheat-Sheets) - Developer Cheatsheets
 - [patrickloeber/python-fun](https://github.com/patrickloeber/python-fun) - Some fun and useful projects with Python
+
+## Kotlin 
+
+- [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) - 
 
 ## Lua 
 
