@@ -194,6 +194,7 @@
 
 ## HTML 
 
+- [wolfsoftwaresystemsltd/WolfScale](https://github.com/wolfsoftwaresystemsltd/WolfScale) - 
 - [PenningLabs/lxconsole](https://github.com/PenningLabs/lxconsole) - LXD Graphical Web Console
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -218,6 +219,7 @@
 
 ## JavaScript 
 
+- [trashbytes/bonbon-strategy](https://github.com/trashbytes/bonbon-strategy) - A Home Assistant strategy which automatically generates a colorful dashboard.
 - [Kibibit/hass-kibibit-theme](https://github.com/Kibibit/hass-kibibit-theme) - A milky glass theme for Home Assistant
 - [johnnyo21/floorplan_3d](https://github.com/johnnyo21/floorplan_3d) - Home Assistant 3D Floorplan Card
 - [kishorviswanathan/ha-floorplan](https://github.com/kishorviswanathan/ha-floorplan) - Simple way to setup floorplan in home assistant
@@ -476,7 +478,6 @@
 
 ## Rust 
 
-- [wolfsoftwaresystemsltd/WolfScale](https://github.com/wolfsoftwaresystemsltd/WolfScale) - 
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
@@ -667,7 +668,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [pawelmalak/snippet-box](https://github.com/pawelmalak/snippet-box) - Snippet Box is a simple self-hosted app for organizing your code snippets. It allows you to easily create, edit, browse and manage your snippets in various languages.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
 
 ## VBScript 
 
