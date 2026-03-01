@@ -281,6 +281,7 @@
 ## Makefile 
 
 - [MichaelCurrin/docsify-js-tutorial](https://github.com/MichaelCurrin/docsify-js-tutorial) - Build a Markdown-based docs site using DocsifyJS and GH Pages 👩‍🏫 🏗 📒 🕸
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 
 ## Markdown 
 
@@ -323,7 +324,6 @@
 - [juliandin/ceph_cluster](https://github.com/juliandin/ceph_cluster) - CEPH cluster on Ubuntu.
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [DockStation/dockstation](https://github.com/DockStation/dockstation) - DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [rootusercop/Free-DevOps-Books-1](https://github.com/rootusercop/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
