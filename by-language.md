@@ -40,6 +40,7 @@
 - [Sass](#sass)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
@@ -495,6 +496,7 @@
 
 ## Shell 
 
+- [altstackHQ/altstack-data](https://github.com/altstackHQ/altstack-data) - A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.
 - [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [tikibozo/plexarr](https://github.com/tikibozo/plexarr) - 
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
@@ -573,6 +575,10 @@
 
 - [bsctl/kubelived](https://github.com/bsctl/kubelived) - keepalived for kubernetes control plane
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) - ⚠️ Deprecated : Helm charts for applications you run at home
+
+## Svelte 
+
+- [bobbydd021-code/Lantern](https://github.com/bobbydd021-code/Lantern) - 
 
 ## Swift 
 
