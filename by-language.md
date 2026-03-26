@@ -472,8 +472,8 @@
 
 ## Rust 
 
-- [wolfsoftwaresystemsltd/WolfScale](https://github.com/wolfsoftwaresystemsltd/WolfScale) - 
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself
+- [wolfsoftwaresystemsltd/WolfScale](https://github.com/wolfsoftwaresystemsltd/WolfScale) - Free tools for building robust, clustered server infrastructure — WolfStack, WolfScale, WolfDisk, WolfNet
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself.
 - [lencx/nofwl](https://github.com/lencx/nofwl) - NoFWL Desktop Application
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
 - [smartheim/wifi-captive-rs](https://github.com/smartheim/wifi-captive-rs) - WiFi service for Linux devices that opens an access point with a captive portal for easy network configuration from your mobile phone or laptop
