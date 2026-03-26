@@ -50,6 +50,7 @@
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -554,6 +555,11 @@
 - [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
 
+## distributed-systems 
+
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
+
 ## django 
 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -622,7 +628,7 @@
 
 ## documentation 
 
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself.
 - [backstage/mkdocs-monorepo-plugin](https://github.com/backstage/mkdocs-monorepo-plugin) - ✚ Build multiple documentation folders in a single Mkdocs. Designed for large codebases.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [rhiokim/flybook](https://github.com/rhiokim/flybook) - :airplane: FlyBook is a simple utility to generate static website such as gh-pages, manual of you projects
@@ -1645,7 +1651,7 @@
 
 - [altstackHQ/altstack-data](https://github.com/altstackHQ/altstack-data) - A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
@@ -1884,7 +1890,7 @@
 
 ## visualization 
 
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself.
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 
