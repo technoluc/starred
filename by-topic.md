@@ -1382,7 +1382,7 @@
 - [technoluc/technoluc.github.io](https://github.com/technoluc/technoluc.github.io) - documentation
 - [mnapoli/gh-pages-compiler](https://github.com/mnapoli/gh-pages-compiler) - Automatic website generation from Markdown documentation. Deprecated! Use this instead:
 - [revenz/Fenrus](https://github.com/revenz/Fenrus) - A personal home page for quick access to all your personal apps/sites.
-- [Jackiexiao/foam-mkdocs-template](https://github.com/Jackiexiao/foam-mkdocs-template) - using mkdocs / mkdocs-material / mkdocs-roamlinks-plugin
+- [makerjackie/foam-mkdocs-template](https://github.com/makerjackie/foam-mkdocs-template) - using mkdocs / mkdocs-material / mkdocs-roamlinks-plugin
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [sdushantha/recycle-bin-themes](https://github.com/sdushantha/recycle-bin-themes) - Silly icons for the Windows Recycle Bin
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
