@@ -307,7 +307,7 @@
 - [linhe0x0/defaults-write](https://github.com/linhe0x0/defaults-write) - :apple: :art: Make your mac better.
 - [NYCIST/macadmin-tools](https://github.com/NYCIST/macadmin-tools) - Repository of apps, scripts, and other popular tools used to manage Macs
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [Jackiexiao/foam-mkdocs-template](https://github.com/Jackiexiao/foam-mkdocs-template) - using mkdocs / mkdocs-material / mkdocs-roamlinks-plugin
+- [makerjackie/foam-mkdocs-template](https://github.com/makerjackie/foam-mkdocs-template) - using mkdocs / mkdocs-material / mkdocs-roamlinks-plugin
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
