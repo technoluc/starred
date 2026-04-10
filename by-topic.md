@@ -852,7 +852,7 @@
 
 - [trashbytes/bonbon-strategy](https://github.com/trashbytes/bonbon-strategy) - A Home Assistant strategy which automatically generates a colorful dashboard.
 - [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - 🔧 Home Assistant custom integration for managing devices - rename, reorganize, create virtual devices, and merge multiple devices and entities into one.
-- [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - ⭐ Community-driven Tado integration with advanced analytics, smart automation, and features you won't find anywhere else.
+- [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - Community-driven Tado integration for Home Assistant — local HomeKit control, smart analytics, and adaptive API management
 - [johnnyo21/floorplan_3d](https://github.com/johnnyo21/floorplan_3d) - Home Assistant 3D Floorplan Card
 - [Danm72/home-assistant-automation-suggestions](https://github.com/Danm72/home-assistant-automation-suggestions) - A Home Assistant integration that analyzes your manual actions and suggests automations to create
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
@@ -909,7 +909,7 @@
 
 ## iot 
 
-- [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - ⭐ Community-driven Tado integration with advanced analytics, smart automation, and features you won't find anywhere else.
+- [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - Community-driven Tado integration for Home Assistant — local HomeKit control, smart analytics, and adaptive API management
 - [balena-os/wifi-connect](https://github.com/balena-os/wifi-connect) - Easy WiFi setup for Linux devices from your mobile phone or laptop
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
 
@@ -1521,7 +1521,7 @@
 ## python 
 
 - [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - 🔧 Home Assistant custom integration for managing devices - rename, reorganize, create virtual devices, and merge multiple devices and entities into one.
-- [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - ⭐ Community-driven Tado integration with advanced analytics, smart automation, and features you won't find anywhere else.
+- [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - Community-driven Tado integration for Home Assistant — local HomeKit control, smart analytics, and adaptive API management
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
