@@ -167,6 +167,7 @@
 - [telegram-bot](#telegram-bot)
 - [terminal](#terminal)
 - [termux](#termux)
+- [termux-tool](#termux-tool)
 - [terraform](#terraform)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -569,6 +570,7 @@
 
 ## docker 
 
+- [zamnzim/Libreseerr](https://github.com/zamnzim/Libreseerr) - Libreseerr is a book request management application for Readarr and Readarr forks like Bookshelf. It provides a simple web interface for users to search for books and request ebook or audiobook downlo
 - [altstackHQ/altstack-data](https://github.com/altstackHQ/altstack-data) - A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -1260,6 +1262,7 @@
 
 ## others 
 
+- [kkodecs/livrarr](https://github.com/kkodecs/livrarr) - 
 - [bobbydd021-code/Lantern](https://github.com/bobbydd021-code/Lantern) - 
 - [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [Framerrr/Framerr](https://github.com/Framerrr/Framerr) - Self-hosted homelab dashboard. Drag-and-drop widgets, easy integration with Plex/Sonarr/Radarr and more, dashboard templates, mobile support. Multi-user support with easy widget sharing.
@@ -1520,6 +1523,7 @@
 
 ## python 
 
+- [zamnzim/Libreseerr](https://github.com/zamnzim/Libreseerr) - Libreseerr is a book request management application for Readarr and Readarr forks like Bookshelf. It provides a simple web interface for users to search for books and request ebook or audiobook downlo
 - [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - 🔧 Home Assistant custom integration for managing devices - rename, reorganize, create virtual devices, and merge multiple devices and entities into one.
 - [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - Community-driven Tado integration for Home Assistant — local HomeKit control, smart analytics, and adaptive API management
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
@@ -1815,6 +1819,10 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
 ## termux 
+
+- [GH05T-HUNTER5/GH05T-INSTA](https://github.com/GH05T-HUNTER5/GH05T-INSTA) - Insta BruteForce { GH05T-INSTA 7.01 } Fork it...
+
+## termux-tool 
 
 - [GH05T-HUNTER5/GH05T-INSTA](https://github.com/GH05T-HUNTER5/GH05T-INSTA) - Insta BruteForce { GH05T-INSTA 7.01 } Fork it...
 
