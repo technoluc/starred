@@ -359,7 +359,7 @@
 
 ## Python 
 
-- [zamnzim/Libreseerr](https://github.com/zamnzim/Libreseerr) - Libreseerr is a book request management application for Readarr and Readarr forks like Bookshelf. It provides a simple web interface for users to search for books and request ebook or audiobook downlo
+- [zamnzim/Libreseerr](https://github.com/zamnzim/Libreseerr) - Libreseerr is a book request management application for Readarr and LazyLibrarian. It provides a simple web interface for users to search for books and request ebook or audiobook downloads similar to 
 - [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - 🔧 Home Assistant custom integration for managing devices - rename, reorganize, create virtual devices, and merge multiple devices and entities into one.
 - [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - Community-driven Tado integration for Home Assistant — local HomeKit control, smart analytics, and adaptive API management
 - [Danm72/home-assistant-automation-suggestions](https://github.com/Danm72/home-assistant-automation-suggestions) - A Home Assistant integration that analyzes your manual actions and suggests automations to create
