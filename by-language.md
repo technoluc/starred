@@ -604,7 +604,7 @@
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [jordansinger/SwiftUI-Kit](https://github.com/jordansinger/SwiftUI-Kit) - A SwiftUI system components and interactions demo app
 - [barbaramartina/swiftuicatalog](https://github.com/barbaramartina/swiftuicatalog) - An open source catalog, under MIT License, containing components, controls, effects, styles, layouts, containers, modifiers and accessibility elements you can use to develop SwiftUI Interfaces in iOS 
-- [AvdLee/RocketSimApp](https://github.com/AvdLee/RocketSimApp) - Enhancing the iOS simulator for productivity
+- [AvdLee/RocketSimApp](https://github.com/AvdLee/RocketSimApp) - RocketSim — 30+ tools for Xcode's iOS Simulator. Testing, debugging, network monitoring, captures, accessibility, app actions, and AI agent automation via the RocketSim CLI. Used by 80k+ developers.
 - [marcosiino/xcode-loves-ai](https://github.com/marcosiino/xcode-loves-ai) - Xcode Source Editor Extension to let ChatGPT AI assist you with code within Xcode
 - [fitomad/ChatGPT-Xcode](https://github.com/fitomad/ChatGPT-Xcode) - Integrate ChatGPT in Xcode using a Xcode Source Editor Extension
 - [twostraws/HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The project source code for Hacking with iOS.
