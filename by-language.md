@@ -99,6 +99,8 @@
 
 ## CSS 
 
+- [twoleftankles/Authentik-CSS](https://github.com/twoleftankles/Authentik-CSS) - 
+- [VULGA01/Authentik-Login-theme-Glassmorphism](https://github.com/VULGA01/Authentik-Login-theme-Glassmorphism) - 
 - [Nerwyn/material-you-theme](https://github.com/Nerwyn/material-you-theme) - Material Design 3 Theme for Home Assistant
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 
