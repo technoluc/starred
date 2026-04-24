@@ -1267,6 +1267,8 @@
 
 ## others 
 
+- [twoleftankles/Authentik-CSS](https://github.com/twoleftankles/Authentik-CSS) - 
+- [VULGA01/Authentik-Login-theme-Glassmorphism](https://github.com/VULGA01/Authentik-Login-theme-Glassmorphism) - 
 - [kkodecs/livrarr](https://github.com/kkodecs/livrarr) - 
 - [bobbydd021-code/Lantern](https://github.com/bobbydd021-code/Lantern) - 
 - [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
