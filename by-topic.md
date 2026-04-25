@@ -1267,9 +1267,9 @@
 
 ## others 
 
+- [Casvt/Kapowarr](https://github.com/Casvt/Kapowarr) - Kapowarr is a software to build and manage a comic book library, fitting in the *arr suite of software.
 - [twoleftankles/Authentik-CSS](https://github.com/twoleftankles/Authentik-CSS) - 
 - [VULGA01/Authentik-Login-theme-Glassmorphism](https://github.com/VULGA01/Authentik-Login-theme-Glassmorphism) - 
-- [kkodecs/livrarr](https://github.com/kkodecs/livrarr) - 
 - [bobbydd021-code/Lantern](https://github.com/bobbydd021-code/Lantern) - 
 - [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [Framerrr/Framerr](https://github.com/Framerrr/Framerr) - Self-hosted homelab dashboard. Drag-and-drop widgets, easy integration with Plex/Sonarr/Radarr and more, dashboard templates, mobile support. Multi-user support with easy widget sharing.
