@@ -194,6 +194,7 @@
 
 ## HTML 
 
+- [ZitaoTech/HackberryPiCM5](https://github.com/ZitaoTech/HackberryPiCM5) - An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard
 - [PenningLabs/lxconsole](https://github.com/PenningLabs/lxconsole) - LXD Graphical Web Console
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -292,6 +293,7 @@
 
 ## Others 
 
+- [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [crozuk/crozuk-friends-plex-guide](https://github.com/crozuk/crozuk-friends-plex-guide) - Details for accessing my Plex media server and requesting content.
 - [game-de-it/GKD_pixel](https://github.com/game-de-it/GKD_pixel) - GKD_pixel
