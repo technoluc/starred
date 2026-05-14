@@ -368,7 +368,7 @@
 - [Casvt/Kapowarr](https://github.com/Casvt/Kapowarr) - Kapowarr is a software to build and manage a comic book library, fitting in the *arr suite of software.
 - [zamnzim/Libreseerr](https://github.com/zamnzim/Libreseerr) - Libreseerr is a book request management application for Readarr and LazyLibrarian. It provides a simple web interface for users to search for books and request ebook or audiobook downloads similar to 
 - [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - 🔧 Home Assistant custom integration for managing devices - rename, reorganize, create virtual devices, and merge multiple devices and entities into one.
-- [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - Community-driven Tado integration for Home Assistant — local HomeKit control, smart analytics, and adaptive API management
+- [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - Community-maintained Tado integration for Home Assistant — local HomeKit control, multi-home, smart valve compensation, quota-aware polling
 - [Danm72/home-assistant-automation-suggestions](https://github.com/Danm72/home-assistant-automation-suggestions) - A Home Assistant integration that analyzes your manual actions and suggests automations to create
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
@@ -660,7 +660,7 @@
 - [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.
 - [steilerDev/delta-skin-generator](https://github.com/steilerDev/delta-skin-generator) - Component based emulator skin creation for deltaskins, with support for altSkins
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [agentcoinorg/evo.ninja](https://github.com/agentcoinorg/evo.ninja) - A versatile generalist agent.
 - [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
@@ -695,7 +695,7 @@
 - [DeanWard/CaddyGen](https://github.com/DeanWard/CaddyGen) - Simplify Caddy configs with SSL, proxies, file servers, security headers, compression & more.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [GeorgeGedox/HomerGX](https://github.com/GeorgeGedox/HomerGX) - A custom fork of Homer, improved and with a new design.
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an feature-rich Open Source self-hostable Pastebin.
