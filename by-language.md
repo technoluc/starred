@@ -491,6 +491,7 @@
 
 ## Shell 
 
+- [Plus-Cloud/RomManager](https://github.com/Plus-Cloud/RomManager) - 
 - [altstackHQ/altstack-data](https://github.com/altstackHQ/altstack-data) - A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.
 - [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases
 - [tikibozo/plexarr](https://github.com/tikibozo/plexarr) - 
