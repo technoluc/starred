@@ -1366,7 +1366,7 @@
 - [miguelgfierro/scripts](https://github.com/miguelgfierro/scripts) - A collection of useful shell scripts for Linux, Windows & Mac
 - [openairplay/airplay2-receiver](https://github.com/openairplay/airplay2-receiver) - AirPlay 2 Receiver - Python implementation
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-- [Tnixc/dots](https://github.com/Tnixc/dots) - Dotfiles for my macOS setup
+- [lynlenl/dots](https://github.com/lynlenl/dots) - Dotfiles for my macOS setup
 - [ironmansoftware/terminal-gui-designer](https://github.com/ironmansoftware/terminal-gui-designer) - A terminal GUI designer for PowerShell.
 - [icsharpcode/WpfDesigner](https://github.com/icsharpcode/WpfDesigner) - The WPF Designer from SharpDevelop
 - [ChrisWarwick/WakeOnLan](https://github.com/ChrisWarwick/WakeOnLan) - Sends Wake-on-Lan Magic Packets to the specified Mac addresses
