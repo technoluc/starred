@@ -1324,7 +1324,7 @@
 - [mirarr-app/mirarr](https://github.com/mirarr-app/mirarr) - Mirarr, FOSS Movie App
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
 - [schmurtzm/Miyoo-Mini-easy-logotweak](https://github.com/schmurtzm/Miyoo-Mini-easy-logotweak) - An app for easy boot logo flashing on the Miyoo Mini and Miyoo Mini Plus
-- [uureel/batocera.pro](https://github.com/uureel/batocera.pro) - This repo is phased out and not supported anymore
+- [uureel/batocera.pro](https://github.com/uureel/batocera.pro) - This repo is phased out and not supported anymore; check &gt; https://github.com/suckbluefrog/Batocera-Multilib
 - [XK9274/moonlight-app-miyoo](https://github.com/XK9274/moonlight-app-miyoo) - Moonlight client app for the Miyoo Mini +
 - [game-de-it/GKD_pixel](https://github.com/game-de-it/GKD_pixel) - GKD_pixel
 - [shauninman/MinUI](https://github.com/shauninman/MinUI) - MinUI is a focused, custom launcher and libretro frontend for a variety of retro handhelds.
