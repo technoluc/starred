@@ -503,7 +503,7 @@
 - [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [fabianishere/udm-iptv](https://github.com/fabianishere/udm-iptv) - Helper tool for configuring routed IPTV on the UniFi Dream Machine (Pro)
-- [uureel/batocera.pro](https://github.com/uureel/batocera.pro) - This repo is phased out and not supported anymore
+- [uureel/batocera.pro](https://github.com/uureel/batocera.pro) - This repo is phased out and not supported anymore; check &gt; https://github.com/suckbluefrog/Batocera-Multilib
 - [XK9274/moonlight-app-miyoo](https://github.com/XK9274/moonlight-app-miyoo) - Moonlight client app for the Miyoo Mini +
 - [game-de-it/GKDpixel_StockOS_v2](https://github.com/game-de-it/GKDpixel_StockOS_v2) - GKDpixel_StockOS_v2
 - [retrogamecorps/GKD-Pixel-MinUI-Addons](https://github.com/retrogamecorps/GKD-Pixel-MinUI-Addons) - Add-on package to integrate GKD Pixel's standalone stock emulators into the MinUI navigation interface
