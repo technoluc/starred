@@ -99,6 +99,7 @@
 - [language](#language)
 - [laravel](#laravel)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
@@ -210,7 +211,7 @@
 ## ai 
 
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
-- [brillcp/PokedexUI](https://github.com/brillcp/PokedexUI) - A simple Pokedex app written in SwiftUI that implements the PokeAPI, using Swift Concurrency, MVVM architecture and pagination
+- [brillcp/PocketDex](https://github.com/brillcp/PocketDex) - A simple Pokedex app written in SwiftUI that implements the PokeAPI, using Swift Concurrency, MVVM architecture and pagination
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -903,7 +904,7 @@
 
 ## ios 
 
-- [brillcp/PokedexUI](https://github.com/brillcp/PokedexUI) - A simple Pokedex app written in SwiftUI that implements the PokeAPI, using Swift Concurrency, MVVM architecture and pagination
+- [brillcp/PocketDex](https://github.com/brillcp/PocketDex) - A simple Pokedex app written in SwiftUI that implements the PokeAPI, using Swift Concurrency, MVVM architecture and pagination
 - [brillcp/Networking](https://github.com/brillcp/Networking) - Networking is a lightweight and powerful HTTP network framework written in Swift
 - [brillcp/SwiftPokedex](https://github.com/brillcp/SwiftPokedex) - A simple Pokedex app written in Swift that implements the PokeAPI, using Combine, RIB+VVM architecture and compositional layout
 - [hoangdesu/Pokedex-iOS](https://github.com/hoangdesu/Pokedex-iOS) - A Pokedex app for iOS
@@ -1009,6 +1010,10 @@
 ## latex 
 
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
+## learn-to-code 
+
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 ## library 
 
@@ -1774,7 +1779,7 @@
 
 ## swift 
 
-- [brillcp/PokedexUI](https://github.com/brillcp/PokedexUI) - A simple Pokedex app written in SwiftUI that implements the PokeAPI, using Swift Concurrency, MVVM architecture and pagination
+- [brillcp/PocketDex](https://github.com/brillcp/PocketDex) - A simple Pokedex app written in SwiftUI that implements the PokeAPI, using Swift Concurrency, MVVM architecture and pagination
 - [brillcp/Networking](https://github.com/brillcp/Networking) - Networking is a lightweight and powerful HTTP network framework written in Swift
 - [brillcp/SwiftPokedex](https://github.com/brillcp/SwiftPokedex) - A simple Pokedex app written in Swift that implements the PokeAPI, using Combine, RIB+VVM architecture and compositional layout
 - [hoangdesu/Pokedex-iOS](https://github.com/hoangdesu/Pokedex-iOS) - A Pokedex app for iOS
@@ -1804,7 +1809,7 @@
 
 ## swiftui 
 
-- [brillcp/PokedexUI](https://github.com/brillcp/PokedexUI) - A simple Pokedex app written in SwiftUI that implements the PokeAPI, using Swift Concurrency, MVVM architecture and pagination
+- [brillcp/PocketDex](https://github.com/brillcp/PocketDex) - A simple Pokedex app written in SwiftUI that implements the PokeAPI, using Swift Concurrency, MVVM architecture and pagination
 - [hoangdesu/Pokedex-iOS](https://github.com/hoangdesu/Pokedex-iOS) - A Pokedex app for iOS
 - [neyogiry/iOS-Pokedex](https://github.com/neyogiry/iOS-Pokedex) - A simple pokedex app on iOS
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
