@@ -28,6 +28,7 @@
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [cli](#cli)
 - [cloud](#cloud)
 - [code](#code)
@@ -422,6 +423,12 @@
 ## chrome-extension 
 
 - [phguo/Send-to-Telegram-Chrome-Extension](https://github.com/phguo/Send-to-Telegram-Chrome-Extension) - Send-to-Telegram: an extension for Google Chrome that allows you to send web content to your own Telegram Bot.
+
+## claude 
+
+- [aplaceforallmystuff/mcp-arr](https://github.com/aplaceforallmystuff/mcp-arr) - MCP server for *arr media management suite
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## cli 
 
