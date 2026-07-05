@@ -274,7 +274,7 @@
 
 ## Lua 
 
-- [lynlenl/dots](https://github.com/lynlenl/dots) - Dotfiles for my macOS setup
+- [enocla/dots](https://github.com/enocla/dots) - Dotfiles for my macOS setup
 
 ## Makefile 
 
