@@ -53,7 +53,6 @@
 
 ## Batchfile 
 
-- [cmartinezone/WinPEBuilder](https://github.com/cmartinezone/WinPEBuilder) - WinPEBuilder - create your WinPE bootable Images easily, including custom scripts and drivers.
 - [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
 - [awesome-windows11/windows11](https://github.com/awesome-windows11/windows11) - 🌎 Windows 11 Settings, Tweaks, Scripts
 - [bmrf/tron](https://github.com/bmrf/tron) - Tron
@@ -343,6 +342,7 @@
 
 - [ElektroStudios/Dolphin_Emulator_RVZ_ISO_GameCube_Wii_Conversion_Scripts](https://github.com/ElektroStudios/Dolphin_Emulator_RVZ_ISO_GameCube_Wii_Conversion_Scripts) - Scripts to automate conversion between GameCube and Wii console ISO files to RVZ file format
 - [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
+- [cmartinezone/WinPEBuilder](https://github.com/cmartinezone/WinPEBuilder) - Build customized Windows PE boot media (ISO/USB) with drivers, scripts, updates, and optional packages ⚡simple PowerShell workflow.
 - [mattifestation/WinPETools](https://github.com/mattifestation/WinPETools) - A module designed to simplify the creation, customization, and deployment of bootable Windows Preinstallation Environment (WinPE) images.
 - [I-Am-Jakoby/Flipper-Zero-BadUSB](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB) - Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.
 - [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
