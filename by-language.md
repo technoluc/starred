@@ -383,7 +383,6 @@
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run frontier AI locally.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [AbhaySingh71/whatsapp-chat-analyzer](https://github.com/AbhaySingh71/whatsapp-chat-analyzer) - WhatsApp Chat Analyzer is a tool designed to process and analyze WhatsApp chat exports. It helps extract key insights such as message counts, active periods, and emoji usage from group or individual c
 - [tfeldmann/organize](https://github.com/tfeldmann/organize) - The file management automation tool.
 - [Dark-Violet/Dark-Violet-Editor](https://github.com/Dark-Violet/Dark-Violet-Editor) - A Delta Skin editor for Windows, Mac and Linux.
@@ -656,6 +655,7 @@
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
 - [emmercm/igir](https://github.com/emmercm/igir) - 🕹 A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of any size on any OS.
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby.
 - [steilerDev/delta-skin-generator](https://github.com/steilerDev/delta-skin-generator) - Component based emulator skin creation for deltaskins, with support for altSkins
