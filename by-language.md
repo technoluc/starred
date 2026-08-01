@@ -187,7 +187,7 @@
 - [dy2k/proxmox-kubernetes](https://github.com/dy2k/proxmox-kubernetes) - Deploy Kubernetes on Proxmox Ubuntu LXCs and VMs
 - [zimmertr/TJs-Kubernetes-Service](https://github.com/zimmertr/TJs-Kubernetes-Service) - Enable enthusiasts and administrators alike to easily provision highly available and production-ready Kubernetes clusters on Proxmox VE.
 - [BarisGece/mHC](https://github.com/BarisGece/mHC) - The easy-way to create and manage a Mini Home Cloud. mHC is built using Shell, Proxmox-VE, Packer, Terraform, Ansible and is not completely reliable for Production environments.
-- [Aaron-K-T-Berry/packer-ubuntu-proxmox-template](https://github.com/Aaron-K-T-Berry/packer-ubuntu-proxmox-template) - This packer template will create an ubuntu 18.04 cloud init enabled proxmox template
+- [Aaron-K-T-Berry/packer-ubuntu-18-04-proxmox-template](https://github.com/Aaron-K-T-Berry/packer-ubuntu-18-04-proxmox-template) - This packer template will create an ubuntu 18.04 cloud init enabled proxmox template
 
 ## HTML 
 
