@@ -1288,6 +1288,7 @@
 
 ## others 
 
+- [Revisor01/abs-storytel-provider](https://github.com/Revisor01/abs-storytel-provider) - 
 - [jo1gi/grawlix](https://github.com/jo1gi/grawlix) - eBook cli downloader
 - [bartekmp/audiobook-dl-web](https://github.com/bartekmp/audiobook-dl-web) - Responsive web app wrapper for audiobook-dl for self-hosting and managing your downloads
 - [Plus-Cloud/RomManager](https://github.com/Plus-Cloud/RomManager) - 
