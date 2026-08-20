@@ -1288,6 +1288,9 @@
 
 ## others 
 
+- [seedds/EPUB_Player](https://github.com/seedds/EPUB_Player) - 
+- [seedds/epub-media-overlay](https://github.com/seedds/epub-media-overlay) - 
+- [kyonifer/silveran-reader](https://github.com/kyonifer/silveran-reader) - A native, cross-platform reader for audiobooks and ebooks with synced audio narration.
 - [Revisor01/abs-storytel-provider](https://github.com/Revisor01/abs-storytel-provider) - 
 - [jo1gi/grawlix](https://github.com/jo1gi/grawlix) - eBook cli downloader
 - [bartekmp/audiobook-dl-web](https://github.com/bartekmp/audiobook-dl-web) - Responsive web app wrapper for audiobook-dl for self-hosting and managing your downloads
