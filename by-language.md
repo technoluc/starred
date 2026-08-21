@@ -363,6 +363,7 @@
 
 ## Python 
 
+- [seedds/epub-media-overlay](https://github.com/seedds/epub-media-overlay) - 
 - [jo1gi/grawlix](https://github.com/jo1gi/grawlix) - eBook cli downloader
 - [bartekmp/audiobook-dl-web](https://github.com/bartekmp/audiobook-dl-web) - Responsive web app wrapper for audiobook-dl for self-hosting and managing your downloads
 - [jo1gi/audiobook-dl](https://github.com/jo1gi/audiobook-dl) - Audiobook CLI downloader
@@ -583,6 +584,8 @@
 
 ## Swift 
 
+- [seedds/EPUB_Player](https://github.com/seedds/EPUB_Player) - 
+- [kyonifer/silveran-reader](https://github.com/kyonifer/silveran-reader) - A native, cross-platform reader for audiobooks and ebooks with synced audio narration.
 - [JohnnWi/homelab-project](https://github.com/JohnnWi/homelab-project) - Homelab App ios android
 - [brillcp/PocketDex](https://github.com/brillcp/PocketDex) - A simple Pokedex app written in SwiftUI that implements the PokeAPI, using Swift Concurrency, MVVM architecture and pagination
 - [brillcp/Networking](https://github.com/brillcp/Networking) - Networking is a lightweight and powerful HTTP network framework written in Swift
