@@ -1289,6 +1289,7 @@
 
 ## others 
 
+- [torchy55/Shelfarr](https://github.com/torchy55/Shelfarr) - A open-source audiobook renamer tool
 - [seedds/EPUB_Player](https://github.com/seedds/EPUB_Player) - 
 - [seedds/epub-media-overlay](https://github.com/seedds/epub-media-overlay) - 
 - [kyonifer/silveran-reader](https://github.com/kyonifer/silveran-reader) - A native, cross-platform reader for audiobooks and ebooks with synced audio narration.
