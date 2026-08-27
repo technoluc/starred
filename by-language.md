@@ -151,6 +151,7 @@
 
 ## Go 
 
+- [jeeftor/audiobook-organizer](https://github.com/jeeftor/audiobook-organizer) - Organize and rename audiobook libraries for Audiobookshelf using metadata.json, EPUB, MP3, and M4B metadata.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [portainer/kubesolo](https://github.com/portainer/kubesolo) - Ultra-lightweight Kubernetes
 - [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
@@ -158,6 +159,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [machinebox/appify](https://github.com/machinebox/appify) - Create a macOS Application from an executable (like a Go binary)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [tbckr/sgpt](https://github.com/tbckr/sgpt) - SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
@@ -216,6 +218,7 @@
 
 ## JavaScript 
 
+- [torchy55/Shelfarr](https://github.com/torchy55/Shelfarr) - A open-source audiobook renamer tool
 - [Revisor01/abs-storytel-provider](https://github.com/Revisor01/abs-storytel-provider) - 
 - [trashbytes/bonbon-strategy](https://github.com/trashbytes/bonbon-strategy) - A Home Assistant strategy which automatically generates a colorful dashboard.
 - [Kibibit/hass-kibibit-theme](https://github.com/Kibibit/hass-kibibit-theme) - A milky glass theme for Home Assistant
@@ -230,7 +233,6 @@
 - [kotcrab/xdelta-wasm](https://github.com/kotcrab/xdelta-wasm) - Online xdelta and xdelta3 patcher
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [dani3l0/honey](https://github.com/dani3l0/honey) - Nice and sweet place for all your self-hosted services.
-- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [dhanishgajjar/vscode-icons](https://github.com/dhanishgajjar/vscode-icons) - Custom Visual Studio Code Icons
@@ -509,7 +511,7 @@
 - [retrogamecorps/GKD-Pixel-MinUI-Addons](https://github.com/retrogamecorps/GKD-Pixel-MinUI-Addons) - Add-on package to integrate GKD Pixel's standalone stock emulators into the MinUI navigation interface
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [ibracorp/ibramenu](https://github.com/ibracorp/ibramenu) - IBRAMENU is a Bash-based App Deployment script with an interactive menu to deploy all your favorite self-hosted applications quickly and easily.
-- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
+- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 9.XX Support and macOS High Sierra ~ macOS Tahoe Support.
 - [sdushantha/kunst](https://github.com/sdushantha/kunst) - Download and display album art or display embedded album art
 - [ej52/proxmox-scripts](https://github.com/ej52/proxmox-scripts) - 
 - [kendallgoto/ilo4_unlock](https://github.com/kendallgoto/ilo4_unlock) - A toolkit for patching HPE's iLO 4 Firmware with access to previously inaccessible utilities
