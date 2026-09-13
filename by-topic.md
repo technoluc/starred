@@ -919,7 +919,7 @@
 - [brillcp/SwiftPokedex](https://github.com/brillcp/SwiftPokedex) - A simple Pokedex app written in Swift that implements the PokeAPI, using Combine, RIB+VVM architecture and compositional layout
 - [hoangdesu/Pokedex-iOS](https://github.com/hoangdesu/Pokedex-iOS) - A Pokedex app for iOS
 - [neyogiry/iOS-Pokedex](https://github.com/neyogiry/iOS-Pokedex) - A simple pokedex app on iOS
-- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift
+- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator library in Swift with AppKit, UIKit, WebAssembly, Web, headless frontends.
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [SwiftyBeaver/SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient & secure logging during development & release in Swift 4 & 5
@@ -1096,7 +1096,7 @@
 ## macos 
 
 - [brillcp/Networking](https://github.com/brillcp/Networking) - Networking is a lightweight and powerful HTTP network framework written in Swift
-- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift
+- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator library in Swift with AppKit, UIKit, WebAssembly, Web, headless frontends.
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [rlxone/Equinox](https://github.com/rlxone/Equinox) - 🌇 🌃  Create dynamic wallpapers for macOS.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -1800,7 +1800,7 @@
 - [brillcp/SwiftPokedex](https://github.com/brillcp/SwiftPokedex) - A simple Pokedex app written in Swift that implements the PokeAPI, using Combine, RIB+VVM architecture and compositional layout
 - [hoangdesu/Pokedex-iOS](https://github.com/hoangdesu/Pokedex-iOS) - A Pokedex app for iOS
 - [neyogiry/iOS-Pokedex](https://github.com/neyogiry/iOS-Pokedex) - A simple pokedex app on iOS
-- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift
+- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator library in Swift with AppKit, UIKit, WebAssembly, Web, headless frontends.
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [rlxone/Equinox](https://github.com/rlxone/Equinox) - 🌇 🌃  Create dynamic wallpapers for macOS.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
