@@ -600,7 +600,7 @@
 - [neyogiry/iOS-Pokedex](https://github.com/neyogiry/iOS-Pokedex) - A simple pokedex app on iOS
 - [HarryCha777/Interactive-SwiftUI-Code](https://github.com/HarryCha777/Interactive-SwiftUI-Code) - iOS App Designed to Educate SwiftUI Interactively
 - [migueldeicaza/SwiftTermApp](https://github.com/migueldeicaza/SwiftTermApp) - 
-- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator in Swift
+- [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator library in Swift with AppKit, UIKit, WebAssembly, Web, headless frontends.
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 - [rlxone/Equinox](https://github.com/rlxone/Equinox) - 🌇 🌃  Create dynamic wallpapers for macOS.
