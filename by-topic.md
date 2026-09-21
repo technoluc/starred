@@ -809,7 +809,7 @@
 
 ## hacking 
 
-- [Ymsniper/KTO](https://github.com/Ymsniper/KTO) - WiFi deauthentication tool that kicks every device off a target network - except the ones you whitelist by MAC address. It continuously scans for non‑whitelisted devices and deauths them the moment th
+- [Ymsniper/KTO](https://github.com/Ymsniper/KTO) - Rust WiFi deauth tool that kicks every device off a target network except the MACs you whitelist, continuously, with a live TUI and PMF/WPA3 support (CSA + reassociation).
 - [GH05T-HUNTER5/GH05T-INSTA](https://github.com/GH05T-HUNTER5/GH05T-INSTA) - Insta BruteForce { GH05T-INSTA 7.01 } Fork it...
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1355,7 +1355,6 @@
 - [retrogamecorps/GKD-Pixel-MinUI-Addons](https://github.com/retrogamecorps/GKD-Pixel-MinUI-Addons) - Add-on package to integrate GKD Pixel's standalone stock emulators into the MinUI navigation interface
 - [PiaCarrot/pokeorange](https://github.com/PiaCarrot/pokeorange) - ROM Hack of Crystal
 - [kotcrab/xdelta-wasm](https://github.com/kotcrab/xdelta-wasm) - Online xdelta and xdelta3 patcher
-- [steilerDev/delta-skin-generator](https://github.com/steilerDev/delta-skin-generator) - Component based emulator skin creation for deltaskins, with support for altSkins
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [rileytestut/Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 - [ios-dev-tools/awesome-ios-dev-tools](https://github.com/ios-dev-tools/awesome-ios-dev-tools) - A list of the best tools for iOS developers
