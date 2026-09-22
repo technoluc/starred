@@ -1290,6 +1290,10 @@
 
 ## others 
 
+- [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
+- [youngchris29-art/NuvioTV](https://github.com/youngchris29-art/NuvioTV) - Native tvOS (Apple TV) port of NuvioMobile, reusing its shared Kotlin business logic with a new SwiftUI focus-engine frontend
+- [bobsupra/NuvioTVOS](https://github.com/bobsupra/NuvioTVOS) - Nuvio tvOS client
+- [luckynumb3rs/stremio-perfect-setup](https://github.com/luckynumb3rs/stremio-perfect-setup) - 🍿 Streaming Perfect Setup
 - [yodaluca23/Fusion-AltStore](https://github.com/yodaluca23/Fusion-AltStore) - 
 - [Sonicx161/AIOManager](https://github.com/Sonicx161/AIOManager) - One manager to rule them all. Addon management, cross-device sync, and deep metrics for your entire setup. All without sacrificing your privacy.
 - [Tam-Taro/SEL-Filtering-and-Sorting](https://github.com/Tam-Taro/SEL-Filtering-and-Sorting) - This page features AIOStreams templates and AIOMetadata configs for your perfect all-in-one stremio setup.
@@ -1830,6 +1834,7 @@
 
 ## swiftui 
 
+- [prehakanson-art/OrivioTVAppleTV](https://github.com/prehakanson-art/OrivioTVAppleTV) - Native SwiftUI tvOS media player — addon + debrid streaming, KSPlayer/FFmpeg/VLC playback, Infuse-style Siri-remote scrubbing, Trakt/TMDB, and Nuvio account sync.
 - [brillcp/PocketDex](https://github.com/brillcp/PocketDex) - A simple Pokedex app written in SwiftUI that implements the PokeAPI, using Swift Concurrency, MVVM architecture and pagination
 - [hoangdesu/Pokedex-iOS](https://github.com/hoangdesu/Pokedex-iOS) - A Pokedex app for iOS
 - [neyogiry/iOS-Pokedex](https://github.com/neyogiry/iOS-Pokedex) - A simple pokedex app on iOS
