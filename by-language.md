@@ -219,6 +219,7 @@
 
 ## JavaScript 
 
+- [youngchris29-art/NuvioTV](https://github.com/youngchris29-art/NuvioTV) - Native tvOS (Apple TV) port of NuvioMobile, reusing its shared Kotlin business logic with a new SwiftUI focus-engine frontend
 - [torchy55/Shelfarr](https://github.com/torchy55/Shelfarr) - A open-source audiobook renamer tool
 - [Revisor01/abs-storytel-provider](https://github.com/Revisor01/abs-storytel-provider) - 
 - [trashbytes/bonbon-strategy](https://github.com/trashbytes/bonbon-strategy) - A Home Assistant strategy which automatically generates a colorful dashboard.
@@ -274,6 +275,7 @@
 
 ## Kotlin 
 
+- [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
 - [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) - 
 
 ## Lua 
@@ -593,6 +595,8 @@
 
 ## Swift 
 
+- [prehakanson-art/OrivioTVAppleTV](https://github.com/prehakanson-art/OrivioTVAppleTV) - Native SwiftUI tvOS media player — addon + debrid streaming, KSPlayer/FFmpeg/VLC playback, Infuse-style Siri-remote scrubbing, Trakt/TMDB, and Nuvio account sync.
+- [bobsupra/NuvioTVOS](https://github.com/bobsupra/NuvioTVOS) - Nuvio tvOS client
 - [seedds/EPUB_Player](https://github.com/seedds/EPUB_Player) - 
 - [kyonifer/silveran-reader](https://github.com/kyonifer/silveran-reader) - A native, cross-platform reader for audiobooks and ebooks with synced audio narration.
 - [JohnnWi/homelab-project](https://github.com/JohnnWi/homelab-project) - Homelab App ios android
@@ -660,6 +664,7 @@
 
 ## TypeScript 
 
+- [luckynumb3rs/stremio-perfect-setup](https://github.com/luckynumb3rs/stremio-perfect-setup) - 🍿 Streaming Perfect Setup
 - [Sonicx161/AIOManager](https://github.com/Sonicx161/AIOManager) - One manager to rule them all. Addon management, cross-device sync, and deep metrics for your entire setup. All without sacrificing your privacy.
 - [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-
 - [Framerrr/Framerr](https://github.com/Framerrr/Framerr) - Self-hosted homelab dashboard. Drag-and-drop widgets, easy integration with Plex/Sonarr/Radarr and more, dashboard templates, mobile support. Multi-user support with easy widget sharing.
