@@ -8,6 +8,7 @@
 - [agent](#agent)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [android](#android)
 - [ansible](#ansible)
@@ -225,6 +226,10 @@
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+
+## ai-agent 
+
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
 ## ai-agents 
 
@@ -914,6 +919,7 @@
 
 ## ios 
 
+- [leonardob8777-bit/Eagle](https://github.com/leonardob8777-bit/Eagle) - Experimental iOS personalization powered by DarkSword
 - [brillcp/PocketDex](https://github.com/brillcp/PocketDex) - A simple Pokedex app written in SwiftUI that implements the PokeAPI, using Swift Concurrency, MVVM architecture and pagination
 - [brillcp/Networking](https://github.com/brillcp/Networking) - Networking is a lightweight and powerful HTTP network framework written in Swift
 - [brillcp/SwiftPokedex](https://github.com/brillcp/SwiftPokedex) - A simple Pokedex app written in Swift that implements the PokeAPI, using Combine, RIB+VVM architecture and compositional layout
@@ -1290,6 +1296,8 @@
 
 ## others 
 
+- [ImJustDoingMyPart/stremio-stack](https://github.com/ImJustDoingMyPart/stremio-stack) - A high-performance, secure, and clean self-hosted backend for Stremio.
+- [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin
 - [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
 - [youngchris29-art/NuvioTV](https://github.com/youngchris29-art/NuvioTV) - Native tvOS (Apple TV) port of NuvioMobile, reusing its shared Kotlin business logic with a new SwiftUI focus-engine frontend
 - [bobsupra/NuvioTVOS](https://github.com/bobsupra/NuvioTVOS) - Nuvio tvOS client
@@ -1803,6 +1811,7 @@
 
 ## swift 
 
+- [leonardob8777-bit/Eagle](https://github.com/leonardob8777-bit/Eagle) - Experimental iOS personalization powered by DarkSword
 - [brillcp/PocketDex](https://github.com/brillcp/PocketDex) - A simple Pokedex app written in SwiftUI that implements the PokeAPI, using Swift Concurrency, MVVM architecture and pagination
 - [brillcp/Networking](https://github.com/brillcp/Networking) - Networking is a lightweight and powerful HTTP network framework written in Swift
 - [brillcp/SwiftPokedex](https://github.com/brillcp/SwiftPokedex) - A simple Pokedex app written in Swift that implements the PokeAPI, using Combine, RIB+VVM architecture and compositional layout
@@ -1834,6 +1843,7 @@
 
 ## swiftui 
 
+- [leonardob8777-bit/Eagle](https://github.com/leonardob8777-bit/Eagle) - Experimental iOS personalization powered by DarkSword
 - [prehakanson-art/OrivioTVAppleTV](https://github.com/prehakanson-art/OrivioTVAppleTV) - Native SwiftUI tvOS media player — addon + debrid streaming, KSPlayer/FFmpeg/VLC playback, Infuse-style Siri-remote scrubbing, Trakt/TMDB, and Nuvio account sync.
 - [brillcp/PocketDex](https://github.com/brillcp/PocketDex) - A simple Pokedex app written in SwiftUI that implements the PokeAPI, using Swift Concurrency, MVVM architecture and pagination
 - [hoangdesu/Pokedex-iOS](https://github.com/hoangdesu/Pokedex-iOS) - A Pokedex app for iOS
