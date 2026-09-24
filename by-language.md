@@ -275,6 +275,7 @@
 
 ## Kotlin 
 
+- [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin
 - [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
 - [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) - 
 
@@ -595,6 +596,7 @@
 
 ## Swift 
 
+- [leonardob8777-bit/Eagle](https://github.com/leonardob8777-bit/Eagle) - Experimental iOS personalization powered by DarkSword
 - [prehakanson-art/OrivioTVAppleTV](https://github.com/prehakanson-art/OrivioTVAppleTV) - Native SwiftUI tvOS media player — addon + debrid streaming, KSPlayer/FFmpeg/VLC playback, Infuse-style Siri-remote scrubbing, Trakt/TMDB, and Nuvio account sync.
 - [bobsupra/NuvioTVOS](https://github.com/bobsupra/NuvioTVOS) - Nuvio tvOS client
 - [seedds/EPUB_Player](https://github.com/seedds/EPUB_Player) - 
