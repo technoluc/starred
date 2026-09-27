@@ -300,7 +300,7 @@
 
 - [ImJustDoingMyPart/stremio-stack](https://github.com/ImJustDoingMyPart/stremio-stack) - A high-performance, secure, and clean self-hosted backend for Stremio.
 - [yodaluca23/Fusion-AltStore](https://github.com/yodaluca23/Fusion-AltStore) - 
-- [Tam-Taro/SEL-Filtering-and-Sorting](https://github.com/Tam-Taro/SEL-Filtering-and-Sorting) - This page features AIOStreams templates and AIOMetadata configs for your perfect all-in-one stremio setup.
+- [Tam-Taro/SEL-Filtering-and-Sorting](https://github.com/Tam-Taro/SEL-Filtering-and-Sorting) - This page features AIOStreams templates and AIOMetadata configs for your perfect all-in-one streaming setup.
 - [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
 - [crozuk/crozuk-friends-plex-guide](https://github.com/crozuk/crozuk-friends-plex-guide) - Details for accessing my Plex media server and requesting content.
