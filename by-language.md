@@ -220,6 +220,7 @@
 
 ## JavaScript 
 
+- [lewlew-glitch/qm_companion](https://github.com/lewlew-glitch/qm_companion) - Self-hosted companion for Quartermaster, with Docker management, service discovery and secure mobile pairing.
 - [youngchris29-art/NuvioTV](https://github.com/youngchris29-art/NuvioTV) - Native tvOS (Apple TV) port of NuvioMobile, reusing its shared Kotlin business logic with a new SwiftUI focus-engine frontend
 - [torchy55/Shelfarr](https://github.com/torchy55/Shelfarr) - A open-source audiobook renamer tool
 - [Revisor01/abs-storytel-provider](https://github.com/Revisor01/abs-storytel-provider) - 
@@ -490,6 +491,7 @@
 
 ## Rust 
 
+- [scryer-media/scryer](https://github.com/scryer-media/scryer) - Media manager
 - [Ymsniper/KTO](https://github.com/Ymsniper/KTO) - Rust WiFi deauth tool that kicks every device off a target network except the MACs you whitelist, continuously, with a live TUI and PMF/WPA3 support (CSA + reassociation).
 - [intelligentwolf/WolfScale](https://github.com/intelligentwolf/WolfScale) - Free tools for building robust, clustered server infrastructure — WolfStack, WolfScale, WolfDisk, WolfNet
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
