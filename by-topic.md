@@ -1311,6 +1311,7 @@
 
 ## others 
 
+- [cedya77/aiometadata](https://github.com/cedya77/aiometadata) - my space for aiometadata
 - [PaRaN01a-hash/UltraMax](https://github.com/PaRaN01a-hash/UltraMax) - Self-hosted UltraMax Nuvio and Stremio Addon
 - [lewlew-glitch/qm_companion](https://github.com/lewlew-glitch/qm_companion) - Self-hosted companion for Quartermaster, with Docker management, service discovery and secure mobile pairing.
 - [scryer-media/scryer](https://github.com/scryer-media/scryer) - Media manager
