@@ -2,6 +2,13 @@ name: build starred web data
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - starred-web
+    paths:
+      - ".github/workflows/update-stars-web.yml"
+      - "assets/**"
+      - "index.html"
   schedule:
     - cron: "15 1 * * *"
 
@@ -10,12 +17,11 @@ permissions:
 
 jobs:
   build-stars-json:
-    if: github.ref == 'refs/heads/starred-web'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: starred-web
+          ref: ${{ github.ref_name }}
 
       - name: Fetch starred repositories with metadata
         env:
@@ -41,6 +47,7 @@ jobs:
               })
               with urllib.request.urlopen(req) as resp:
                   rows = json.load(resp)
+
               if not rows:
                   break
 
@@ -63,6 +70,7 @@ jobs:
                       "owner": owner.get("login"),
                       "avatar_url": owner.get("avatar_url")
                   })
+
               page += 1
 
           payload = {
@@ -70,6 +78,7 @@ jobs:
               "count": len(repos),
               "repositories": repos
           }
+
           with open("data/stars.json", "w", encoding="utf-8") as f:
               json.dump(payload, f, ensure_ascii=False, separators=(",", ":"))
           PY
@@ -81,4 +90,4 @@ jobs:
           git add data/stars.json
           git diff --cached --quiet && exit 0
           git commit -m "chore: refresh starred web data"
-          git push origin HEAD:starred-web
+          git push origin HEAD:${GITHUB_REF_NAME}
