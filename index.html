@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="A fast, searchable browser for TechnoLuc's starred GitHub repositories.">
+  <title>TechnoLuc Stars</title>
+  <link rel="preconnect" href="https://avatars.githubusercontent.com">
+  <link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="shell">
+      <nav class="topbar">
+        <a class="brand" href="./" aria-label="TechnoLuc Stars home">
+          <span class="brand-mark">★</span>
+          <span>TechnoLuc Stars</span>
+        </a>
+        <div class="top-actions">
+          <a class="quiet-link" href="https://github.com/technoluc/starred">Repository</a>
+          <button id="themeToggle" class="icon-button" type="button" aria-label="Toggle theme">◐</button>
+        </div>
+      </nav>
+
+      <div class="hero-copy">
+        <p class="eyebrow">PERSONAL SOFTWARE LIBRARY</p>
+        <h1>Find the repository you starred six months ago.</h1>
+        <p class="hero-subtitle">Search names, owners, descriptions, languages and topics. Filter the noise and rediscover useful projects.</p>
+      </div>
+
+      <label class="search-box" for="searchInput">
+        <span aria-hidden="true">⌕</span>
+        <input id="searchInput" type="search" placeholder="Search repositories, topics, owners…" autocomplete="off">
+        <kbd>/</kbd>
+      </label>
+
+      <div id="summaryStats" class="summary-stats" aria-live="polite"></div>
+    </div>
+  </header>
+
+  <main class="shell main-layout">
+    <section id="dashboard" class="dashboard" aria-label="Library overview">
+      <div class="dashboard-card dashboard-wide">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">RECENTLY STARRED</p>
+            <h2>Latest additions</h2>
+          </div>
+        </div>
+        <div id="recentStars" class="mini-repos"></div>
+      </div>
+
+      <div class="dashboard-card">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">DISCOVER</p>
+            <h2>Popular topics</h2>
+          </div>
+        </div>
+        <div id="topTopics" class="rank-list"></div>
+      </div>
+
+      <div class="dashboard-card">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">STACK</p>
+            <h2>Languages</h2>
+          </div>
+        </div>
+        <div id="topLanguages" class="rank-list"></div>
+      </div>
+    </section>
+
+    <section class="library">
+      <div class="library-toolbar">
+        <div>
+          <p class="eyebrow">ALL REPOSITORIES</p>
+          <h2 id="resultTitle">Your stars</h2>
+          <p id="resultMeta" class="muted"></p>
+        </div>
+        <div class="toolbar-actions">
+          <button id="filterToggle" class="secondary-button mobile-filter" type="button">Filters</button>
+          <label class="select-label">
+            <span class="sr-only">Sort repositories</span>
+            <select id="sortSelect">
+              <option value="starred-desc">Recently starred</option>
+              <option value="starred-asc">Oldest starred</option>
+              <option value="updated-desc">Recently updated</option>
+              <option value="updated-asc">Least recently updated</option>
+              <option value="stars-desc">Most GitHub stars</option>
+              <option value="stars-asc">Least GitHub stars</option>
+              <option value="name-asc">Name A–Z</option>
+              <option value="name-desc">Name Z–A</option>
+            </select>
+          </label>
+          <div class="view-toggle" role="group" aria-label="View style">
+            <button id="gridView" class="active" type="button" title="Grid view">▦</button>
+            <button id="listView" type="button" title="List view">☷</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="content-grid">
+        <aside id="filters" class="filters" aria-label="Repository filters">
+          <div class="filter-head">
+            <strong>Filters</strong>
+            <button id="clearFilters" class="text-button" type="button">Clear all</button>
+          </div>
+
+          <div class="filter-section">
+            <label for="languageFilter">Language</label>
+            <select id="languageFilter"><option value="">All languages</option></select>
+          </div>
+
+          <div class="filter-section">
+            <label for="topicFilter">Topic</label>
+            <select id="topicFilter"><option value="">All topics</option></select>
+          </div>
+
+          <div class="filter-section">
+            <label for="ownerFilter">Owner</label>
+            <select id="ownerFilter"><option value="">All owners</option></select>
+          </div>
+
+          <div class="filter-section">
+            <label for="updatedFilter">Last updated</label>
+            <select id="updatedFilter">
+              <option value="">Any time</option>
+              <option value="30">Last 30 days</option>
+              <option value="365">Last year</option>
+              <option value="1095">Last 3 years</option>
+            </select>
+          </div>
+
+          <fieldset class="filter-section check-group">
+            <legend>Status</legend>
+            <label><input id="activeOnly" type="checkbox"> Active only</label>
+            <label><input id="homepageOnly" type="checkbox"> Has homepage</label>
+            <label><input id="savedOnly" type="checkbox"> Saved locally</label>
+          </fieldset>
+
+          <div class="filter-section">
+            <div class="filter-section-title">
+              <span>Local collections</span>
+              <button id="newCollection" class="text-button" type="button">+ New</button>
+            </div>
+            <select id="collectionFilter"><option value="">All collections</option></select>
+            <p class="filter-help">Collections stay in this browser via localStorage.</p>
+          </div>
+
+          <div id="activeFilters" class="active-filters"></div>
+        </aside>
+
+        <div class="results-column">
+          <div id="repoGrid" class="repo-grid" aria-live="polite"></div>
+          <div id="emptyState" class="empty-state" hidden>
+            <div class="empty-icon">⌕</div>
+            <h3>No repositories found</h3>
+            <p>Try another search or clear one of the filters.</p>
+            <button id="emptyClear" class="secondary-button" type="button">Clear filters</button>
+          </div>
+          <button id="loadMore" class="load-more" type="button" hidden>Show more</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <template id="repoCardTemplate">
+    <article class="repo-card">
+      <div class="repo-topline">
+        <div class="owner-block">
+          <img class="owner-avatar" alt="" loading="lazy">
+          <div>
+            <p class="repo-owner"></p>
+            <h3 class="repo-name"></h3>
+          </div>
+        </div>
+        <button class="save-button" type="button" title="Save locally" aria-label="Save repository">☆</button>
+      </div>
+      <p class="repo-description"></p>
+      <div class="repo-topics"></div>
+      <div class="repo-meta"></div>
+      <div class="repo-actions">
+        <a class="homepage-link" target="_blank" rel="noopener noreferrer">Homepage</a>
+        <a class="github-link" target="_blank" rel="noopener noreferrer">Open GitHub →</a>
+      </div>
+      <div class="collection-menu" hidden></div>
+    </article>
+  </template>
+
+  <script src="./assets/app.js" defer></script>
+</body>
+</html>
