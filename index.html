@@ -84,11 +84,11 @@
           <label class="select-label">
             <span class="sr-only">Sort repositories</span>
             <select id="sortSelect">
+              <option value="active-desc">Recently active</option>
               <option value="starred-desc">Recently starred</option>
-              <option value="starred-asc">Oldest starred</option>
-              <option value="updated-desc">Recently updated</option>
-              <option value="updated-asc">Least recently updated</option>
               <option value="stars-desc">Most GitHub stars</option>
+              <option value="active-asc">Least recently active</option>
+              <option value="starred-asc">Oldest starred</option>
               <option value="stars-asc">Least GitHub stars</option>
               <option value="name-asc">Name A–Z</option>
               <option value="name-desc">Name Z–A</option>
@@ -124,7 +124,7 @@
           </div>
 
           <div class="filter-section">
-            <label for="updatedFilter">Last updated</label>
+            <label for="updatedFilter">Last active</label>
             <select id="updatedFilter">
               <option value="">Any time</option>
               <option value="30">Last 30 days</option>
