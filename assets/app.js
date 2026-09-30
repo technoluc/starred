@@ -38,6 +38,28 @@ const esc = (v = "") => String(v).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&l
 const fmt = new Intl.NumberFormat("en", { notation: "compact", maximumFractionDigits: 1 });
 const dayMs = 86400000;
 const dateValue = (v) => v ? new Date(v).getTime() || 0 : 0;
+const activityDate = (repo) => repo.pushed_at || repo.updated_at || null;
+
+function relativeTime(value) {
+  const ts = dateValue(value);
+  if (!ts) return "Not yet updated";
+  const diff = Date.now() - ts;
+  if (diff < 60000) return "Updated just now";
+  const units = [
+    ["year", 365 * dayMs],
+    ["month", 30 * dayMs],
+    ["day", dayMs],
+    ["hour", 3600000],
+    ["minute", 60000],
+  ];
+  for (const [name, ms] of units) {
+    if (diff >= ms) {
+      const n = Math.max(1, Math.floor(diff / ms));
+      return "Updated " + n + " " + name + (n === 1 ? "" : "s") + " ago";
+    }
+  }
+  return "Updated just now";
+}
 
 function queryState() {
   const p = new URLSearchParams(location.search);
@@ -51,7 +73,7 @@ function queryState() {
     homepage: p.get("homepage") === "1",
     saved: p.get("saved") === "1",
     collection: p.get("collection") || "",
-    sort: p.get("sort") || "starred-desc",
+    sort: ({ "updated-desc": "active-desc", "updated-asc": "active-asc" }[p.get("sort")] || p.get("sort") || "starred-desc"),
   };
 }
 
@@ -101,6 +123,15 @@ function enrich(repo) {
     forks_count: repo.forks_count ?? repo.forks ?? 0,
     starred_at: repo.starred_at || repo.created_at || null,
     updated_at: repo.updated_at || null,
+    pushed_at: repo.pushed_at || null,
+    created_at: repo.created_at || null,
+    open_issues_count: repo.open_issues_count ?? 0,
+    watchers_count: repo.watchers_count ?? 0,
+    default_branch: repo.default_branch || "",
+    visibility: repo.visibility || "public",
+    fork: Boolean(repo.fork),
+    disabled: Boolean(repo.disabled),
+    license: repo.license || null,
     archived: Boolean(repo.archived),
     homepage: repo.homepage || "",
     language: repo.language || "Unknown",
@@ -174,7 +205,7 @@ function applyFilters(resetVisible = true) {
       && (!lang || r.language === lang)
       && (!topic || r.topics.includes(topic))
       && (!owner || r.owner === owner)
-      && (!days || dateValue(r.updated_at) >= minUpdated)
+      && (!days || dateValue(activityDate(r)) >= minUpdated)
       && (!els.activeOnly.checked || !r.archived)
       && (!els.homepageOnly.checked || Boolean(r.homepage))
       && (!els.savedOnly.checked || state.saved.has(r.full_name))
@@ -185,6 +216,8 @@ function applyFilters(resetVisible = true) {
   const sorters = {
     "starred-desc": (a,b)=>dateValue(b.starred_at)-dateValue(a.starred_at),
     "starred-asc": (a,b)=>dateValue(a.starred_at)-dateValue(b.starred_at),
+    "active-desc": (a,b)=>dateValue(activityDate(b))-dateValue(activityDate(a)),
+    "active-asc": (a,b)=>dateValue(activityDate(a))-dateValue(activityDate(b)),
     "updated-desc": (a,b)=>dateValue(b.updated_at)-dateValue(a.updated_at),
     "updated-asc": (a,b)=>dateValue(a.updated_at)-dateValue(b.updated_at),
     "stars-desc": (a,b)=>b.stargazers_count-a.stargazers_count,
@@ -230,7 +263,8 @@ function cardFor(repo) {
     '<span><span class="language-dot"></span>' + esc(repo.language) + '</span>',
     '<span>★ ' + fmt.format(repo.stargazers_count) + '</span>',
     '<span>⑂ ' + fmt.format(repo.forks_count) + '</span>',
-    repo.starred_at ? '<span>Starred ' + new Date(repo.starred_at).toLocaleDateString() + '</span>' : '',
+    activityDate(repo) ? '<span title="' + esc(new Date(activityDate(repo)).toLocaleString()) + '">' + esc(relativeTime(activityDate(repo))) + '</span>' : '<span>Not yet updated</span>',
+    repo.starred_at ? '<span title="' + esc(new Date(repo.starred_at).toLocaleString()) + '">Starred ' + new Date(repo.starred_at).toLocaleDateString() + '</span>' : '',
     repo.archived ? '<span class="archived-badge">Archived</span>' : ''
   ].join("");
   node.querySelector(".repo-meta").innerHTML = meta;
@@ -308,7 +342,7 @@ function renderActiveFilters() {
     ["language", els.language.value],
     ["topic", els.topic.value],
     ["owner", els.owner.value],
-    ["updated", els.updated.value ? "updated " + els.updated.value + "d" : ""],
+    ["updated", els.updated.value ? "active " + els.updated.value + "d" : ""],
     ["active", els.activeOnly.checked ? "active only" : ""],
     ["homepage", els.homepageOnly.checked ? "has homepage" : ""],
     ["saved", els.savedOnly.checked ? "saved locally" : ""],
