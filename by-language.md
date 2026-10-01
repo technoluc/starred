@@ -65,7 +65,6 @@
 - [schmurtzm/Miyoo-Mini-easy-logotweak](https://github.com/schmurtzm/Miyoo-Mini-easy-logotweak) - An app for easy boot logo flashing on the Miyoo Mini and Miyoo Mini Plus
 - [shauninman/MinUI](https://github.com/shauninman/MinUI) - MinUI is a focused, custom launcher and libretro frontend for a variety of retro handhelds.
 - [pret/pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
-- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [mikebrady/shairport-sync](https://github.com/mikebrady/shairport-sync) - AirPlay and AirPlay 2 audio player
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
@@ -90,6 +89,7 @@
 
 ## C++ 
 
+- [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) - Cross-platform GUI management tools for OpenCore（OCAT）
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo
@@ -109,6 +109,7 @@
 
 ## Dart 
 
+- [varunsalian/debrify](https://github.com/varunsalian/debrify) - Your personal media hub — browse, stream, and organize media from your own services and servers, with a cinematic built-in player. Android, Android TV, iOS, Windows, macOS, and Linux.
 - [mirarr-app/mirarr](https://github.com/mirarr-app/mirarr) - Mirarr, FOSS Movie App
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -279,6 +280,7 @@
 
 ## Kotlin 
 
+- [albertovinaroz/NuvioPro](https://github.com/albertovinaroz/NuvioPro) - Unofficial Nuvio Mobile repository to build Nuvio with experimental features, improvements, and bug fixes not yet availabe in the official repository.
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin
 - [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
 - [owenlejeune/ArrMatey](https://github.com/owenlejeune/ArrMatey) - 
@@ -676,6 +678,7 @@
 
 ## TypeScript 
 
+- [Eful97/Pictorium](https://github.com/Eful97/Pictorium) - Dynamic Movie & TV Poster Generator for Stremio & Media Centers
 - [cedya77/aiometadata](https://github.com/cedya77/aiometadata) - my space for aiometadata
 - [techwithanirudh/coolify-tweaks](https://github.com/techwithanirudh/coolify-tweaks) - A userstyle that enhances Coolify's UI by applying opinionated tweaks, spacing, colors, and layout fixes, to make the UI more polished and user-friendly.
 - [luckynumb3rs/stremio-perfect-setup](https://github.com/luckynumb3rs/stremio-perfect-setup) - 🍿 Streaming Perfect Setup
