@@ -1312,6 +1312,7 @@
 
 ## others 
 
+- [UnluckyForSome/Fresh1G1R](https://github.com/UnluckyForSome/Fresh1G1R) - Daily updated 1G1R .DATs
 - [Eful97/Pictorium](https://github.com/Eful97/Pictorium) - Dynamic Movie & TV Poster Generator for Stremio & Media Centers
 - [albertovinaroz/NuvioPro](https://github.com/albertovinaroz/NuvioPro) - Unofficial Nuvio Mobile repository to build Nuvio with experimental features, improvements, and bug fixes not yet availabe in the official repository.
 - [cedya77/aiometadata](https://github.com/cedya77/aiometadata) - my space for aiometadata
