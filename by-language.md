@@ -60,6 +60,7 @@
 
 ## C 
 
+- [elliotttate/Wind-Waker-Recomp](https://github.com/elliotttate/Wind-Waker-Recomp) - Personal source fork of BlueWake for The Wind Waker on iPhone and iPad
 - [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
 - [schmurtzm/Miyoo-Mini-easy-logotweak](https://github.com/schmurtzm/Miyoo-Mini-easy-logotweak) - An app for easy boot logo flashing on the Miyoo Mini and Miyoo Mini Plus
@@ -377,6 +378,8 @@
 
 ## Python 
 
+- [MegaNexusMediaPlayer/MegaNexus](https://github.com/MegaNexusMediaPlayer/MegaNexus) - MegaNexus for Kodi: one simple, fast home for movies, series and live TV. Set up from your phone, sync with Nuvio, Stremio, Trakt and Simkl.
+- [MegaNexusMediaPlayer/Nuvio-Hub](https://github.com/MegaNexusMediaPlayer/Nuvio-Hub) - MOVED to github.com/MegaNexusMediaPlayer/MegaNexus - this old project only carries the update to MegaNexus 7 and will be removed.
 - [UnluckyForSome/Fresh1G1R](https://github.com/UnluckyForSome/Fresh1G1R) - Daily updated 1G1R .DATs
 - [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube) - HomeTube is a friendly video downloader managing single video URL into organized content structure for automatic home media server experience.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
