@@ -616,7 +616,7 @@
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
 - [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
@@ -1752,7 +1752,7 @@
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
@@ -1922,7 +1922,7 @@
 
 ## terminal 
 
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [czoczo/BetterBash](https://github.com/czoczo/BetterBash) - A nice way to make Bash prompt more powerful!
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
