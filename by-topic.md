@@ -1338,7 +1338,7 @@
 - [Revisor01/abs-storytel-provider](https://github.com/Revisor01/abs-storytel-provider) - 
 - [jo1gi/grawlix](https://github.com/jo1gi/grawlix) - eBook cli downloader
 - [bartekmp/audiobook-dl-web](https://github.com/bartekmp/audiobook-dl-web) - Responsive web app wrapper for audiobook-dl for self-hosting and managing your downloads
-- [Plus-Cloud/RomManager](https://github.com/Plus-Cloud/RomManager) - 
+- [Plus-Cloud/RomManager](https://github.com/Plus-Cloud/RomManager) - RomManager: a ROM downloader and ROM manager for the Miyoo Mini and Miyoo Mini Plus (OnionOS). Download your games and homebrew over Wi-Fi with box art, browse them in cover flow, and play them on the
 - [JohnnWi/homelab-project](https://github.com/JohnnWi/homelab-project) - Homelab App ios android
 - [ZitaoTech/HackberryPiCM5](https://github.com/ZitaoTech/HackberryPiCM5) - An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard
 - [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
@@ -1607,7 +1607,6 @@
 
 ## python 
 
-- [MegaNexusMediaPlayer/Nuvio-Hub](https://github.com/MegaNexusMediaPlayer/Nuvio-Hub) - MOVED to github.com/MegaNexusMediaPlayer/MegaNexus - this old project only carries the update to MegaNexus 7 and will be removed.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [zamnzim/Libreseerr](https://github.com/zamnzim/Libreseerr) - Libreseerr is a book request management application for Readarr and LazyLibrarian. It provides a simple web interface for users to search for books and request ebook or audiobook downloads similar to 
 - [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - 🔧 Home Assistant custom integration for managing devices - rename, reorganize, create virtual devices, and merge multiple devices and entities into one.
