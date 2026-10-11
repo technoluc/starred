@@ -307,6 +307,7 @@
 
 ## Others 
 
+- [MegaNexusMediaPlayer/MegaNexus](https://github.com/MegaNexusMediaPlayer/MegaNexus) - MegaNexus for Kodi: one simple, fast home for movies, series and live TV. Set up from your phone, sync with Nuvio, Stremio, Trakt and Simkl.
 - [ImJustDoingMyPart/stremio-stack](https://github.com/ImJustDoingMyPart/stremio-stack) - A high-performance, secure, and clean self-hosted backend for Stremio.
 - [yodaluca23/Fusion-AltStore](https://github.com/yodaluca23/Fusion-AltStore) - 
 - [Tam-Taro/SEL-Filtering-and-Sorting](https://github.com/Tam-Taro/SEL-Filtering-and-Sorting) - This page features AIOStreams templates and AIOMetadata configs for your perfect all-in-one streaming setup.
@@ -382,8 +383,6 @@
 ## Python 
 
 - [LionCityGaming/bookstack-themed](https://github.com/LionCityGaming/bookstack-themed) - 
-- [MegaNexusMediaPlayer/MegaNexus](https://github.com/MegaNexusMediaPlayer/MegaNexus) - MegaNexus for Kodi: one simple, fast home for movies, series and live TV. Set up from your phone, sync with Nuvio, Stremio, Trakt and Simkl.
-- [MegaNexusMediaPlayer/Nuvio-Hub](https://github.com/MegaNexusMediaPlayer/Nuvio-Hub) - MOVED to github.com/MegaNexusMediaPlayer/MegaNexus - this old project only carries the update to MegaNexus 7 and will be removed.
 - [UnluckyForSome/Fresh1G1R](https://github.com/UnluckyForSome/Fresh1G1R) - Daily updated 1G1R .DATs
 - [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube) - HomeTube is a friendly video downloader managing single video URL into organized content structure for automatic home media server experience.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
