@@ -154,6 +154,7 @@
 
 ## Go 
 
+- [tristenlammi/Arrmada](https://github.com/tristenlammi/Arrmada) - arrrrrrrr
 - [snyderman3000/mixtape](https://github.com/snyderman3000/mixtape) - App store for OnionOS on the Miyoo Mini Plus: browse, install and update community ports over Wi-Fi. Built by Claude.
 - [jeeftor/audiobook-organizer](https://github.com/jeeftor/audiobook-organizer) - Organize and rename audiobook libraries for Audiobookshelf using metadata.json, EPUB, MP3, and M4B metadata.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -613,6 +614,7 @@
 
 ## Swift 
 
+- [marvinvr/dusk-player](https://github.com/marvinvr/dusk-player) - Modern iOS Native Plex Client
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [leonardob8777-bit/Eagle](https://github.com/leonardob8777-bit/Eagle) - Experimental iOS personalization powered by DarkSword
 - [prehakanson-art/OrivioTVAppleTV](https://github.com/prehakanson-art/OrivioTVAppleTV) - Native SwiftUI tvOS media player — addon + debrid streaming, KSPlayer/FFmpeg/VLC playback, Infuse-style Siri-remote scrubbing, Trakt/TMDB, and Nuvio account sync.
@@ -684,6 +686,7 @@
 
 ## TypeScript 
 
+- [adminsyspro/proxcenter-ui](https://github.com/adminsyspro/proxcenter-ui) - ProxCenter is an alternative to VMware vCenter for Proxmox environments. It provides a modern, intuitive web interface to manage multiple Proxmox VE clusters and Proxmox Backup Server instances from a
 - [Eful97/Pictorium](https://github.com/Eful97/Pictorium) - Dynamic Movie & TV Poster Generator for Stremio & Media Centers
 - [cedya77/aiometadata](https://github.com/cedya77/aiometadata) - my space for aiometadata
 - [techwithanirudh/coolify-tweaks](https://github.com/techwithanirudh/coolify-tweaks) - A userstyle that enhances Coolify's UI by applying opinionated tweaks, spacing, colors, and layout fixes, to make the UI more polished and user-friendly.
