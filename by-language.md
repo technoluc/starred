@@ -220,7 +220,6 @@
 ## Java 
 
 - [shmuelzon/home-assistant-floor-plan](https://github.com/shmuelzon/home-assistant-floor-plan) - Home Assistant Floor Plan Generator Plugin For Sweet Home 3D
-- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [cisagov/log4j-scanner](https://github.com/cisagov/log4j-scanner) - log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.
 
 ## JavaScript 
@@ -235,7 +234,6 @@
 - [Kibibit/hass-kibibit-theme](https://github.com/Kibibit/hass-kibibit-theme) - A milky glass theme for Home Assistant
 - [johnnyo21/floorplan_3d](https://github.com/johnnyo21/floorplan_3d) - Home Assistant 3D Floorplan Card
 - [kishorviswanathan/ha-floorplan](https://github.com/kishorviswanathan/ha-floorplan) - Simple way to setup floorplan in home assistant
-- [aplaceforallmystuff/mcp-arr](https://github.com/aplaceforallmystuff/mcp-arr) - MCP server for *arr media management suite
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
@@ -249,7 +247,6 @@
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [VishwaGauravIn/github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) - 🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫
 - [dhanishgajjar/vscode-icons](https://github.com/dhanishgajjar/vscode-icons) - Custom Visual Studio Code Icons
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [mnapoli/gh-pages-compiler](https://github.com/mnapoli/gh-pages-compiler) - Automatic website generation from Markdown documentation. Deprecated! Use this instead:
 - [rhiokim/flybook](https://github.com/rhiokim/flybook) - :airplane: FlyBook is a simple utility to generate static website such as gh-pages, manual of you projects
@@ -314,6 +311,7 @@
 - [Tam-Taro/SEL-Filtering-and-Sorting](https://github.com/Tam-Taro/SEL-Filtering-and-Sorting) - This page features AIOStreams templates and AIOMetadata configs for your perfect all-in-one streaming setup.
 - [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [crozuk/crozuk-friends-plex-guide](https://github.com/crozuk/crozuk-friends-plex-guide) - Details for accessing my Plex media server and requesting content.
 - [game-de-it/GKD_pixel](https://github.com/game-de-it/GKD_pixel) - GKD_pixel
 - [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) - SwiftUI 2.0 Cheat Sheet
@@ -441,6 +439,7 @@
 - [jjlawren/sonos_cloud](https://github.com/jjlawren/sonos_cloud) - Sonos cloud API integration for Home Assistant with improved TTS/alerts handling
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [clintmod/macprefs](https://github.com/clintmod/macprefs) - Backup and Restore your Mac System and App Preferences (e.g. defaults write)
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [FifiTheBulldog/ios-settings-urls](https://github.com/FifiTheBulldog/ios-settings-urls) - A collection of iOS Settings URLs
 - [backstage/mkdocs-monorepo-plugin](https://github.com/backstage/mkdocs-monorepo-plugin) - ✚ Build multiple documentation folders in a single Mkdocs. Designed for large codebases.
 - [lukasgeiter/mkdocs-awesome-nav](https://github.com/lukasgeiter/mkdocs-awesome-nav) - A plugin for customizing the navigation structure of your MkDocs site.
@@ -461,7 +460,6 @@
 - [vicalloy/telegram-shell-bot](https://github.com/vicalloy/telegram-shell-bot) - A telegram Bot to run shell commands
 - [fnzv/trsh](https://github.com/fnzv/trsh) - Telegram Remote-Shell
 - [glebmk/ssh-over-telegram](https://github.com/glebmk/ssh-over-telegram) - 
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
@@ -695,6 +693,7 @@
 - [Framerrr/Framerr](https://github.com/Framerrr/Framerr) - Self-hosted homelab dashboard. Drag-and-drop widgets, easy integration with Plex/Sonarr/Radarr and more, dashboard templates, mobile support. Multi-user support with easy widget sharing.
 - [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) - SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 - [RiDDiX/home-assistant-matter-hub](https://github.com/RiDDiX/home-assistant-matter-hub) - Publish your Home-Assistant Instance using Matter.
+- [aplaceforallmystuff/mcp-arr](https://github.com/aplaceforallmystuff/mcp-arr) - MCP server for *arr media management suite
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [emmercm/igir](https://github.com/emmercm/igir) - 🕹 A zero-setup ROM collection manager that sorts, filters, extracts or archives, patches, and reports on collections of any size on any OS.
