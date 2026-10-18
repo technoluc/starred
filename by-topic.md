@@ -1315,7 +1315,7 @@
 
 - [TarbleFR/neostation-ios](https://github.com/TarbleFR/neostation-ios) - NeoStation iOS: sideloaded iPhone/iPad frontend with embedded Libretro, Dolphin, ARMSX2 and RPCS3, community skins, and NeoSwap memory management.
 - [marvinvr/dusk-player](https://github.com/marvinvr/dusk-player) - The Plex App we Deserve.
-- [tristenlammi/Arrmada](https://github.com/tristenlammi/Arrmada) - arrrrrrrr
+- [tristenlammi/Arrmada](https://github.com/tristenlammi/Arrmada) - One self-hosted app for all your media.
 - [LionCityGaming/bookstack-themed](https://github.com/LionCityGaming/bookstack-themed) - 
 - [izlemeli/nuvio](https://github.com/izlemeli/nuvio) - A Nuvio home catalog addon that makes the home screen more comprehensive, organized and easier to discover movies and TV series.
 - [elliotttate/Wind-Waker-Recomp](https://github.com/elliotttate/Wind-Waker-Recomp) - Personal source fork of BlueWake for The Wind Waker on iPhone and iPad
