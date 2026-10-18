@@ -155,7 +155,7 @@
 
 ## Go 
 
-- [tristenlammi/Arrmada](https://github.com/tristenlammi/Arrmada) - arrrrrrrr
+- [tristenlammi/Arrmada](https://github.com/tristenlammi/Arrmada) - One self-hosted app for all your media.
 - [snyderman3000/mixtape](https://github.com/snyderman3000/mixtape) - App store for OnionOS on the Miyoo Mini Plus: browse, install and update community ports over Wi-Fi. Built by Claude.
 - [jeeftor/audiobook-organizer](https://github.com/jeeftor/audiobook-organizer) - Organize and rename audiobook libraries for Audiobookshelf using metadata.json, EPUB, MP3, and M4B metadata.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -395,7 +395,7 @@
 - [Casvt/Kapowarr](https://github.com/Casvt/Kapowarr) - Kapowarr is a software to build and manage a comic book library, fitting in the *arr suite of software.
 - [zamnzim/Libreseerr](https://github.com/zamnzim/Libreseerr) - Libreseerr is a book request management application for Readarr and LazyLibrarian. It provides a simple web interface for users to search for books and request ebook or audiobook downloads similar to 
 - [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - 🔧 Home Assistant custom integration for managing devices - rename, reorganize, create virtual devices, and merge multiple devices and entities into one.
-- [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - Community-maintained Tado integration for Home Assistant — local HomeKit control, multi-home, smart valve compensation, quota-aware polling
+- [hiall-fyi/tado_ce](https://github.com/hiall-fyi/tado_ce) - Tado integration for Home Assistant with local HomeKit control, multi-home support, Smart Valve Control and Weather Compensation. Community-maintained and independent of Tado.
 - [Danm72/home-assistant-automation-suggestions](https://github.com/Danm72/home-assistant-automation-suggestions) - A Home Assistant integration that analyzes your manual actions and suggests automations to create
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [Taxel/PlexTraktSync](https://github.com/Taxel/PlexTraktSync) - A python script that syncs the movies, shows and ratings between trakt and Plex (without needing a PlexPass or Trakt VIP subscription)
@@ -614,7 +614,7 @@
 
 ## Swift 
 
-- [marvinvr/dusk-player](https://github.com/marvinvr/dusk-player) - Modern iOS Native Plex Client
+- [marvinvr/dusk-player](https://github.com/marvinvr/dusk-player) - The Plex App we Deserve.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [leonardob8777-bit/Eagle](https://github.com/leonardob8777-bit/Eagle) - Experimental iOS personalization powered by DarkSword
 - [prehakanson-art/OrivioTVAppleTV](https://github.com/prehakanson-art/OrivioTVAppleTV) - Native SwiftUI tvOS media player — addon + debrid streaming, KSPlayer/FFmpeg/VLC playback, Infuse-style Siri-remote scrubbing, Trakt/TMDB, and Nuvio account sync.
