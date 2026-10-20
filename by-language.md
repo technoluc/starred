@@ -230,7 +230,6 @@
 - [izlemeli/nuvio](https://github.com/izlemeli/nuvio) - A Nuvio home catalog addon that makes the home screen more comprehensive, organized and easier to discover movies and TV series.
 - [PaRaN01a-hash/UltraMax](https://github.com/PaRaN01a-hash/UltraMax) - Self-hosted UltraMax Nuvio and Stremio Addon
 - [lewlew-glitch/qm_companion](https://github.com/lewlew-glitch/qm_companion) - Self-hosted companion for Quartermaster, with Docker management, service discovery and secure mobile pairing.
-- [youngchris29-art/NuvioTV](https://github.com/youngchris29-art/NuvioTV) - Native tvOS (Apple TV) port of NuvioMobile, reusing its shared Kotlin business logic with a new SwiftUI focus-engine frontend
 - [torchy55/Shelfarr](https://github.com/torchy55/Shelfarr) - A open-source audiobook renamer tool
 - [Revisor01/abs-storytel-provider](https://github.com/Revisor01/abs-storytel-provider) - 
 - [trashbytes/bonbon-strategy](https://github.com/trashbytes/bonbon-strategy) - A Home Assistant strategy which automatically generates a colorful dashboard.
@@ -357,7 +356,7 @@
 
 ## PHP 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 
 ## PowerShell 
@@ -388,6 +387,7 @@
 - [UnluckyForSome/Fresh1G1R](https://github.com/UnluckyForSome/Fresh1G1R) - Daily updated 1G1R .DATs
 - [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube) - HomeTube is a friendly video downloader managing single video URL into organized content structure for automatic home media server experience.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
+- [youngchris29-art/NuvioTV](https://github.com/youngchris29-art/NuvioTV) - Native tvOS (Apple TV) port of NuvioMobile, reusing its shared Kotlin business logic with a new SwiftUI focus-engine frontend
 - [seedds/epub-media-overlay](https://github.com/seedds/epub-media-overlay) - 
 - [jo1gi/grawlix](https://github.com/jo1gi/grawlix) - eBook cli downloader
 - [bartekmp/audiobook-dl-web](https://github.com/bartekmp/audiobook-dl-web) - Responsive web app wrapper for audiobook-dl for self-hosting and managing your downloads
@@ -463,6 +463,7 @@
 - [vicalloy/telegram-shell-bot](https://github.com/vicalloy/telegram-shell-bot) - A telegram Bot to run shell commands
 - [fnzv/trsh](https://github.com/fnzv/trsh) - Telegram Remote-Shell
 - [glebmk/ssh-over-telegram](https://github.com/glebmk/ssh-over-telegram) - 
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of infrastructure and applications at scale.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
