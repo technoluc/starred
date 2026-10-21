@@ -90,6 +90,7 @@
 
 ## C++ 
 
+- [MegaNexusMediaPlayer/MegaNexus](https://github.com/MegaNexusMediaPlayer/MegaNexus) - MegaNexus for Kodi: one simple, fast home for movies, series and live TV. Set up from your phone, sync with Nuvio, Stremio, Trakt and Simkl.
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) - Cross-platform GUI management tools for OpenCore（OCAT）
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
@@ -220,6 +221,7 @@
 
 ## Java 
 
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated.
 - [shmuelzon/home-assistant-floor-plan](https://github.com/shmuelzon/home-assistant-floor-plan) - Home Assistant Floor Plan Generator Plugin For Sweet Home 3D
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -307,7 +309,6 @@
 
 ## Others 
 
-- [MegaNexusMediaPlayer/MegaNexus](https://github.com/MegaNexusMediaPlayer/MegaNexus) - MegaNexus for Kodi: one simple, fast home for movies, series and live TV. Set up from your phone, sync with Nuvio, Stremio, Trakt and Simkl.
 - [ImJustDoingMyPart/stremio-stack](https://github.com/ImJustDoingMyPart/stremio-stack) - A high-performance, secure, and clean self-hosted backend for Stremio.
 - [yodaluca23/Fusion-AltStore](https://github.com/yodaluca23/Fusion-AltStore) - 
 - [Tam-Taro/SEL-Filtering-and-Sorting](https://github.com/Tam-Taro/SEL-Filtering-and-Sorting) - This page features AIOStreams templates and AIOMetadata configs for your perfect all-in-one streaming setup.
@@ -711,7 +712,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
-- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
