@@ -60,6 +60,7 @@
 
 ## C 
 
+- [TobiasFriedly/smg-gba](https://github.com/TobiasFriedly/smg-gba) - SMG GBA Project
 - [elliotttate/Wind-Waker-Recomp](https://github.com/elliotttate/Wind-Waker-Recomp) - Personal source fork of BlueWake for The Wind Waker on iPhone and iPad
 - [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
@@ -111,7 +112,7 @@
 
 ## Dart 
 
-- [TarbleFR/neostation-ios](https://github.com/TarbleFR/neostation-ios) - NeoStation iOS: sideloaded iPhone/iPad frontend with embedded Libretro, Dolphin, ARMSX2 and RPCS3, community skins, and NeoSwap memory management.
+- [TarbleFR/RewindBox](https://github.com/TarbleFR/RewindBox) - RewindBox: independent iPhone/iPad emulation frontend, forked from NeoStation, with embedded Libretro, Dolphin, ARMSX2 and RPCS3.
 - [varunsalian/debrify](https://github.com/varunsalian/debrify) - Your personal media hub — browse, stream, and organize media from your own services and servers, with a cinematic built-in player. Android, Android TV, iOS, Windows, macOS, and Linux.
 - [mirarr-app/mirarr](https://github.com/mirarr-app/mirarr) - Mirarr, FOSS Movie App
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -364,7 +365,7 @@
 
 - [ElektroStudios/Dolphin_Emulator_RVZ_ISO_GameCube_Wii_Conversion_Scripts](https://github.com/ElektroStudios/Dolphin_Emulator_RVZ_ISO_GameCube_Wii_Conversion_Scripts) - Scripts to automate conversion between GameCube and Wii console ISO files to RVZ file format
 - [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
-- [cmartinezone/WinPEBuilder](https://github.com/cmartinezone/WinPEBuilder) - Build customized Windows PE boot media (ISO/USB) with drivers, scripts, updates, and optional packages ⚡simple PowerShell workflow.
+- [cmartineztech/WinPEBuilder](https://github.com/cmartineztech/WinPEBuilder) - Build customized Windows PE boot media (ISO/USB) with drivers, scripts, updates, and optional packages ⚡simple PowerShell workflow.
 - [mattifestation/WinPETools](https://github.com/mattifestation/WinPETools) - A module designed to simplify the creation, customization, and deployment of bootable Windows Preinstallation Environment (WinPE) images.
 - [I-Am-Jakoby/Flipper-Zero-BadUSB](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB) - Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.
 - [hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads) - The Official USB Rubber Ducky Payload Repository
