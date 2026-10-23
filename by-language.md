@@ -91,6 +91,7 @@
 
 ## C++ 
 
+- [ankushKun/3dsDL](https://github.com/ankushKun/3dsDL) - Download files straight onto your Nintendo 3DS from a URL or QR code
 - [MegaNexusMediaPlayer/MegaNexus](https://github.com/MegaNexusMediaPlayer/MegaNexus) - MegaNexus for Kodi: one simple, fast home for movies, series and live TV. Set up from your phone, sync with Nuvio, Stremio, Trakt and Simkl.
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
 - [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) - Cross-platform GUI management tools for OpenCore（OCAT）
@@ -172,7 +173,7 @@
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [tbckr/sgpt](https://github.com/tbckr/sgpt) - SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
-- [jub0t/mechon](https://github.com/jub0t/mechon) - The open-source, self-hosted panel that runs every Discord bot in its own sandbox. Use to manage Discord bots or start your own hosting-panel company.
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - A self-hosted web-based dashboard panel to deploy, host, and manage Discord Bots.
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
@@ -222,6 +223,7 @@
 
 ## Java 
 
+- [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) - A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated.
 - [shmuelzon/home-assistant-floor-plan](https://github.com/shmuelzon/home-assistant-floor-plan) - Home Assistant Floor Plan Generator Plugin For Sweet Home 3D
@@ -287,6 +289,7 @@
 
 ## Kotlin 
 
+- [aradhyas8/Plume_Launcher](https://github.com/aradhyas8/Plume_Launcher) - 🪶 A lightweight, ad-free launcher for Android TV and Google TV. 0.4 MB, no tracking, no ads. Downloader code: 2125356
 - [albertovinaroz/NuvioPro](https://github.com/albertovinaroz/NuvioPro) - Unofficial Nuvio Mobile repository to build Nuvio with experimental features, improvements, and bug fixes not yet availabe in the official repository.
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin
 - [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
@@ -358,6 +361,7 @@
 
 ## PHP 
 
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 
@@ -617,6 +621,7 @@
 
 ## Swift 
 
+- [playportdev/playport](https://github.com/playportdev/playport) - Playport runs Windows games, 64-bit and now 32-bit, on a stock, non-jailbroken iPhone. Install a game from your library onto the phone, pick up a controller and press Play. The game runs on the phone'
 - [marvinvr/dusk-player](https://github.com/marvinvr/dusk-player) - The Plex App we Deserve.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [leonardob8777-bit/Eagle](https://github.com/leonardob8777-bit/Eagle) - Experimental iOS personalization powered by DarkSword
@@ -689,6 +694,7 @@
 
 ## TypeScript 
 
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [adminsyspro/proxcenter-ui](https://github.com/adminsyspro/proxcenter-ui) - ProxCenter is an alternative to VMware vCenter for Proxmox environments. It provides a modern, intuitive web interface to manage multiple Proxmox VE clusters and Proxmox Backup Server instances from a
 - [Eful97/Pictorium](https://github.com/Eful97/Pictorium) - Dynamic Movie & TV Poster Generator for Stremio & Media Centers
 - [cedya77/aiometadata](https://github.com/cedya77/aiometadata) - my space for aiometadata
