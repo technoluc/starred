@@ -60,6 +60,7 @@
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
@@ -712,6 +713,15 @@
 
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 
+## downloader 
+
+- [ankushKun/3dsDL](https://github.com/ankushKun/3dsDL) - Download files straight onto your Nintendo 3DS from a URL or QR code
+- [jo1gi/audiobook-dl](https://github.com/jo1gi/audiobook-dl) - Audiobook CLI downloader
+- [sdushantha/gitdir](https://github.com/sdushantha/gitdir) - Download a single directory/folder from a GitHub repo
+- [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
+- [SwapnilSoni1999/spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+
 ## education 
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
@@ -1335,6 +1345,7 @@
 
 ## others 
 
+- [mohankumarpaluru/oracle-freetier-instance-creation](https://github.com/mohankumarpaluru/oracle-freetier-instance-creation) - A script to create free instance
 - [aradhyas8/Plume_Launcher](https://github.com/aradhyas8/Plume_Launcher) - 🪶 A lightweight, ad-free launcher for Android TV and Google TV. 0.4 MB, no tracking, no ads. Downloader code: 2125356
 - [playportdev/playport](https://github.com/playportdev/playport) - Playport runs Windows games, 64-bit and now 32-bit, on a stock, non-jailbroken iPhone. Install a game from your library onto the phone, pick up a controller and press Play. The game runs on the phone'
 - [TarbleFR/RewindBox](https://github.com/TarbleFR/RewindBox) - RewindBox: independent iPhone/iPad emulation frontend, forked from NeoStation, with embedded Libretro, Dolphin, ARMSX2 and RPCS3.
