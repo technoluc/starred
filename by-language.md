@@ -224,7 +224,6 @@
 ## Java 
 
 - [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) - A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated.
 - [shmuelzon/home-assistant-floor-plan](https://github.com/shmuelzon/home-assistant-floor-plan) - Home Assistant Floor Plan Generator Plugin For Sweet Home 3D
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -232,6 +231,7 @@
 
 ## JavaScript 
 
+- [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [izlemeli/nuvio](https://github.com/izlemeli/nuvio) - A Nuvio home catalog addon that makes the home screen more comprehensive, organized and easier to discover movies and TV series.
 - [PaRaN01a-hash/UltraMax](https://github.com/PaRaN01a-hash/UltraMax) - Self-hosted UltraMax Nuvio and Stremio Addon
 - [lewlew-glitch/qm_companion](https://github.com/lewlew-glitch/qm_companion) - Self-hosted companion for Quartermaster, with Docker management, service discovery and secure mobile pairing.
@@ -309,6 +309,7 @@
 
 ## Objective-C 
 
+- [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native macOS applications from command line scripts.
 
 ## Others 
@@ -361,6 +362,7 @@
 
 ## PHP 
 
+- [jez500/pricebuddy](https://github.com/jez500/pricebuddy) - A self hostable app that tracks prices and sends you notifications when prices match your preferences
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
@@ -390,6 +392,7 @@
 ## Python 
 
 - [mohankumarpaluru/oracle-freetier-instance-creation](https://github.com/mohankumarpaluru/oracle-freetier-instance-creation) - A script to create free instance
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [LionCityGaming/bookstack-themed](https://github.com/LionCityGaming/bookstack-themed) - 
 - [UnluckyForSome/Fresh1G1R](https://github.com/UnluckyForSome/Fresh1G1R) - Daily updated 1G1R .DATs
 - [EgalitarianMonkey/hometube](https://github.com/EgalitarianMonkey/hometube) - HomeTube is a friendly video downloader managing single video URL into organized content structure for automatic home media server experience.
@@ -501,6 +504,7 @@
 
 ## Ruby 
 
+- [meme-search/meme-search](https://github.com/meme-search/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
 - [theswiftdev/awesome-xcode-extensions](https://github.com/theswiftdev/awesome-xcode-extensions) - Awesome native Xcode extensions.
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application
@@ -511,6 +515,7 @@
 
 ## Rust 
 
+- [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, PAM
 - [scryer-media/scryer](https://github.com/scryer-media/scryer) - Media manager
 - [Ymsniper/KTO](https://github.com/Ymsniper/KTO) - Rust WiFi deauth tool that kicks every device off a target network except the MACs you whitelist, continuously, with a live TUI and PMF/WPA3 support (CSA + reassociation).
 - [intelligentwolf/WolfScale](https://github.com/intelligentwolf/WolfScale) - Free tools for building robust, clustered server infrastructure — WolfStack, WolfScale, WolfDisk, WolfNet
@@ -543,7 +548,6 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [fabianishere/udm-iptv](https://github.com/fabianishere/udm-iptv) - Helper tool for configuring routed IPTV on the UniFi Dream Machine (Pro)
 - [uureel/batocera.pro](https://github.com/uureel/batocera.pro) - This repo is phased out and not supported anymore; check &gt; https://github.com/suckbluefrog/Batocera-Multilib
-- [XK9274/moonlight-app-miyoo](https://github.com/XK9274/moonlight-app-miyoo) - Moonlight client app for the Miyoo Mini +
 - [game-de-it/GKDpixel_StockOS_v2](https://github.com/game-de-it/GKDpixel_StockOS_v2) - GKDpixel_StockOS_v2
 - [retrogamecorps/GKD-Pixel-MinUI-Addons](https://github.com/retrogamecorps/GKD-Pixel-MinUI-Addons) - Add-on package to integrate GKD Pixel's standalone stock emulators into the MinUI navigation interface
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
@@ -695,6 +699,8 @@
 
 ## TypeScript 
 
+- [3xpyth0n/ideon](https://github.com/3xpyth0n/ideon) - Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.
+- [Cinephage/Cinephage](https://github.com/Cinephage/Cinephage) - The AIO solution to your self hosted media gathering needs
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [adminsyspro/proxcenter-ui](https://github.com/adminsyspro/proxcenter-ui) - ProxCenter is an alternative to VMware vCenter for Proxmox environments. It provides a modern, intuitive web interface to manage multiple Proxmox VE clusters and Proxmox Backup Server instances from a
 - [Eful97/Pictorium](https://github.com/Eful97/Pictorium) - Dynamic Movie & TV Poster Generator for Stremio & Media Centers
