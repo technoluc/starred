@@ -9,15 +9,14 @@ on:
       - ".github/workflows/update-stars-web.yml"
       - "assets/**"
       - "index.html"
-  schedule:
-    - cron: "15 1 * * *"
+  workflow_call:
 
 permissions:
   contents: write
 
 concurrency:
-  group: starred-web-data-${{ github.ref }}
-  cancel-in-progress: true
+  group: starred-web-data
+  cancel-in-progress: false
 
 jobs:
   build-stars-json:
@@ -25,17 +24,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref_name }}
+          ref: starred-web
 
       - name: Fetch starred repositories with metadata
         env:
           GH_TOKEN: ${{ github.token }}
           GH_USER: ${{ github.repository_owner }}
+          FORCE_REFRESH: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
           mkdir -p data
           python - <<'PY'
           import json, os, urllib.request
-          from datetime import datetime, timezone
+          from datetime import datetime, timezone, timedelta
 
           token = os.environ["GH_TOKEN"]
           user = os.environ["GH_USER"]
@@ -92,8 +92,25 @@ jobs:
 
               page += 1
 
+          now = datetime.now(timezone.utc)
+          try:
+              with open("data/stars.json", encoding="utf-8") as f:
+                  previous = json.load(f)
+          except (FileNotFoundError, json.JSONDecodeError):
+              previous = {}
+
+          old_stars = {(r.get("full_name"), r.get("starred_at")) for r in previous.get("repositories", [])}
+          new_stars = {(r.get("full_name"), r.get("starred_at")) for r in repos}
+          last_refresh = datetime.fromisoformat(previous.get("generated_at", "1970-01-01T00:00:00+00:00").replace("Z", "+00:00"))
+
+          if (previous and old_stars == new_stars
+                  and now - last_refresh < timedelta(hours=24)
+                  and os.environ.get("FORCE_REFRESH", "").lower() != "true"):
+              print("No star changes; metadata was refreshed less than 24 hours ago. Skipping commit.")
+              raise SystemExit(0)
+
           payload = {
-              "generated_at": datetime.now(timezone.utc).isoformat(),
+              "generated_at": now.isoformat(),
               "count": len(repos),
               "repositories": repos
           }
@@ -109,4 +126,4 @@ jobs:
           git add data/stars.json
           git diff --cached --quiet && exit 0
           git commit -m "chore: refresh starred web data"
-          git push origin HEAD:${GITHUB_REF_NAME}
+          git push origin HEAD:starred-web
