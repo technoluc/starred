@@ -1,0 +1,15 @@
+name: Refresh starred web data (scheduled)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    uses: technoluc/starred/.github/workflows/update-stars-web.yml@starred-web
+    permissions:
+      contents: write
