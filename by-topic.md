@@ -293,6 +293,7 @@
 
 ## automation 
 
+- [dinglebear-ai/rarcane](https://github.com/dinglebear-ai/rarcane) - Rust MCP server and CLI for Arcane Docker/container management, with action-dispatched tools, CLI parity, auth, and plugin packaging.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [Danm72/home-assistant-automation-suggestions](https://github.com/Danm72/home-assistant-automation-suggestions) - A Home Assistant integration that analyzes your manual actions and suggests automations to create
 - [Ravencentric/awesome-arr](https://github.com/Ravencentric/awesome-arr) - A collection of *arrs and related stuff.
@@ -448,6 +449,7 @@
 
 ## claude-code 
 
+- [dinglebear-ai/rarcane](https://github.com/dinglebear-ai/rarcane) - Rust MCP server and CLI for Arcane Docker/container management, with action-dispatched tools, CLI parity, auth, and plugin packaging.
 - [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) - A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - 👑 The all-in-one macOS menu bar companion: customizable controls, system monitor, AI Agent, Shortcuts, widgets, remote control, and more.
@@ -455,6 +457,7 @@
 
 ## cli 
 
+- [dinglebear-ai/rarcane](https://github.com/dinglebear-ai/rarcane) - Rust MCP server and CLI for Arcane Docker/container management, with action-dispatched tools, CLI parity, auth, and plugin packaging.
 - [jo1gi/audiobook-dl](https://github.com/jo1gi/audiobook-dl) - Audiobook CLI downloader
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -617,6 +620,7 @@
 
 ## docker 
 
+- [dinglebear-ai/rarcane](https://github.com/dinglebear-ai/rarcane) - Rust MCP server and CLI for Arcane Docker/container management, with action-dispatched tools, CLI parity, auth, and plugin packaging.
 - [Panonim/dynacat](https://github.com/Panonim/dynacat) - Dynacat is a dashboard focused on dynamic reloading and easy integration with external applications.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [meme-search/meme-search](https://github.com/meme-search/meme-search) - The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.
@@ -1243,6 +1247,7 @@
 
 ## mcp 
 
+- [dinglebear-ai/rarcane](https://github.com/dinglebear-ai/rarcane) - Rust MCP server and CLI for Arcane Docker/container management, with action-dispatched tools, CLI parity, auth, and plugin packaging.
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [aplaceforallmystuff/mcp-arr](https://github.com/aplaceforallmystuff/mcp-arr) - MCP server for *arr media management suite
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
@@ -1360,6 +1365,7 @@
 
 ## others 
 
+- [Wranglarrr/Wranglarr](https://github.com/Wranglarrr/Wranglarr) - Your whole *arr stack on Postgres, with backups you can actually restore.
 - [braedonsaunders/ether](https://github.com/braedonsaunders/ether) - A Plex Media Server that holds no media: the TMDB catalogue, streamed on demand from your Real-Debrid and other debrid accounts or Usenet, in the official Plex apps.
 - [Cinephage/Cinephage](https://github.com/Cinephage/Cinephage) - The AIO solution to your self hosted media gathering needs
 - [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
@@ -1673,6 +1679,7 @@
 
 ## python 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [zamnzim/Libreseerr](https://github.com/zamnzim/Libreseerr) - Libreseerr is a book request management application for Readarr and LazyLibrarian. It provides a simple web interface for users to search for books and request ebook or audiobook downloads similar to 
 - [EuleMitKeule/device-tools](https://github.com/EuleMitKeule/device-tools) - 🔧 Home Assistant custom integration for managing devices - rename, reorganize, create virtual devices, and merge multiple devices and entities into one.
@@ -1779,6 +1786,7 @@
 
 ## rust 
 
+- [dinglebear-ai/rarcane](https://github.com/dinglebear-ai/rarcane) - Rust MCP server and CLI for Arcane Docker/container management, with action-dispatched tools, CLI parity, auth, and plugin packaging.
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, PAM
 - [intelligentwolf/WolfScale](https://github.com/intelligentwolf/WolfScale) - Free tools for building robust, clustered server infrastructure — WolfStack, WolfScale, WolfDisk, WolfNet
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
@@ -1817,7 +1825,7 @@
 - [jez500/pricebuddy](https://github.com/jez500/pricebuddy) - A self hostable app that tracks prices and sends you notifications when prices match your preferences
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [adminsyspro/proxcenter-ui](https://github.com/adminsyspro/proxcenter-ui) - ProxCenter is an alternative to VMware vCenter for Proxmox environments. It provides a modern, intuitive web interface to manage multiple Proxmox VE clusters and Proxmox Backup Server instances from a
-- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-
+- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams brings your Stremio addons, debrid services and Usenet together into one list, filtered, sorted and formatted your way, and plays it in Stremio or in its own apps for every screen.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [Shoshuo/Prismarr](https://github.com/Shoshuo/Prismarr) - A self-hosted media dashboard unifying Radarr, Sonarr, Prowlarr, Jellyseerr, qBittorrent and TMDb in a single Symfony 8 interface. One search bar across the local library and TMDb, one calendar mergin
 - [altstackHQ/altstack-data](https://github.com/altstackHQ/altstack-data) - A curated list of 450+ awesome open-source alternatives to proprietary SaaS. Deployment configs, self-hosting guides, and tool directory.
