@@ -518,6 +518,7 @@
 
 ## Rust 
 
+- [Wranglarrr/Wranglarr](https://github.com/Wranglarrr/Wranglarr) - Your whole *arr stack on Postgres, with backups you can actually restore.
 - [dinglebear-ai/rarcane](https://github.com/dinglebear-ai/rarcane) - Rust MCP server and CLI for Arcane Docker/container management, with action-dispatched tools, CLI parity, auth, and plugin packaging.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, PAM
