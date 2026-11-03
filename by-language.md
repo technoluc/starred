@@ -233,6 +233,7 @@
 
 ## JavaScript 
 
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [izlemeli/nuvio](https://github.com/izlemeli/nuvio) - A Nuvio home catalog addon that makes the home screen more comprehensive, organized and easier to discover movies and TV series.
 - [PaRaN01a-hash/UltraMax](https://github.com/PaRaN01a-hash/UltraMax) - Self-hosted UltraMax Nuvio and Stremio Addon
@@ -522,6 +523,7 @@
 
 ## Rust 
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [Wranglarrr/Wranglarr](https://github.com/Wranglarrr/Wranglarr) - Your whole *arr stack on Postgres, with backups you can actually restore.
 - [dinglebear-ai/rarcane](https://github.com/dinglebear-ai/rarcane) - Rust MCP server and CLI for Arcane Docker/container management, with action-dispatched tools, CLI parity, auth, and plugin packaging.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
@@ -547,6 +549,7 @@
 
 ## Shell 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [essamamdani/openclaw-coolify](https://github.com/essamamdani/openclaw-coolify) - OpenClaw aka (Clawdbot, MoltBot) is an open agent platform that runs on your machine and works from the chat apps you already use. WhatsApp, Telegram, Discord, Slack, Teams—wherever you are, your AI a
 - [luckynumb3rs/stremio-perfect-setup](https://github.com/luckynumb3rs/stremio-perfect-setup) - 🍿 Streaming Perfect Setup
 - [Plus-Cloud/RomManager](https://github.com/Plus-Cloud/RomManager) - RomManager: a ROM downloader and ROM manager for the Miyoo Mini and Miyoo Mini Plus (OnionOS). Download your games and homebrew over Wi-Fi with box art, browse them in cover flow, and play them on the
@@ -709,6 +712,7 @@
 
 ## TypeScript 
 
+- [maulik9898/barrage](https://github.com/maulik9898/barrage) - Minimal deluge WebUI
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [3xpyth0n/ideon](https://github.com/3xpyth0n/ideon) - Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.
 - [Cinephage/Cinephage](https://github.com/Cinephage/Cinephage) - The AIO solution to your self hosted media gathering needs
