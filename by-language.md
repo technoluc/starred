@@ -233,6 +233,7 @@
 
 ## JavaScript 
 
+- [coollabsio/openclaw](https://github.com/coollabsio/openclaw) - Fully featured & automated OpenClaw docker images
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [izlemeli/nuvio](https://github.com/izlemeli/nuvio) - A Nuvio home catalog addon that makes the home screen more comprehensive, organized and easier to discover movies and TV series.
@@ -712,6 +713,7 @@
 
 ## TypeScript 
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [maulik9898/barrage](https://github.com/maulik9898/barrage) - Minimal deluge WebUI
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [3xpyth0n/ideon](https://github.com/3xpyth0n/ideon) - Your project is scattered across too many tools. Map the chaos on an infinite canvas where notes, files, TO-DOs (and more!) finally live together.
