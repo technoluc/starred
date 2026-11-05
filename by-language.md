@@ -181,7 +181,6 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes
-- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -202,6 +201,7 @@
 - [dfroberg/cluster](https://github.com/dfroberg/cluster) - Lab Cluster - Kubernetes (k3s) cluster managed by GitOps (Flux). Built on Proxmox using Terraform amd Ansible.
 - [dy2k/proxmox-kubernetes](https://github.com/dy2k/proxmox-kubernetes) - Deploy Kubernetes on Proxmox Ubuntu LXCs and VMs
 - [zimmertr/TJs-Kubernetes-Service](https://github.com/zimmertr/TJs-Kubernetes-Service) - Enable enthusiasts and administrators alike to easily provision highly available and production-ready Kubernetes clusters on Proxmox VE.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [BarisGece/mHC](https://github.com/BarisGece/mHC) - The easy-way to create and manage a Mini Home Cloud. mHC is built using Shell, Proxmox-VE, Packer, Terraform, Ansible and is not completely reliable for Production environments.
 - [Aaron-K-T-Berry/packer-ubuntu-18-04-proxmox-template](https://github.com/Aaron-K-T-Berry/packer-ubuntu-18-04-proxmox-template) - This packer template will create an ubuntu 18.04 cloud init enabled proxmox template
 
@@ -354,6 +354,7 @@
 - [ibracorp/authelia](https://github.com/ibracorp/authelia) - Instructions and configuration files to deploy Authelia in Unraid OS using Docker + FreeIPA LDAP.
 - [ChaseDDevelopment/kubernetes-public](https://github.com/ChaseDDevelopment/kubernetes-public) - This is a guide to provision a Highly Available Kubernetes Cluster (K8s)
 - [marcredhat/rke](https://github.com/marcredhat/rke) - 
+- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 - [PhilipSchmid/k8s-home-lab](https://github.com/PhilipSchmid/k8s-home-lab) - Setup for a K8s home lab running on a single host (e.g. Intel NUC)
 - [juliandin/ceph_cluster](https://github.com/juliandin/ceph_cluster) - CEPH cluster on Ubuntu.
 - [Corsinvest/awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site
@@ -488,7 +489,6 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [buvis/clusters](https://github.com/buvis/clusters) - Bob's Universal and Very Intelligent System clusters
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [xezpeleta/Ansible-Proxmox-inventory](https://github.com/xezpeleta/Ansible-Proxmox-inventory) - Proxmox dynamic inventory for Ansible
 - [RaSerge/ansible-proxmox-inventory](https://github.com/RaSerge/ansible-proxmox-inventory) - Refactored ansible proxmox inventory script.
