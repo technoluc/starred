@@ -1398,7 +1398,7 @@
 - [mohankumarpaluru/oracle-freetier-instance-creation](https://github.com/mohankumarpaluru/oracle-freetier-instance-creation) - A script to create free instance
 - [aradhyas8/Plume_Launcher](https://github.com/aradhyas8/Plume_Launcher) - 🪶 A lightweight, ad-free launcher for Android TV and Google TV. 0.4 MB, no tracking, no ads. Downloader code: 2125356
 - [playportdev/playport](https://github.com/playportdev/playport) - Playport runs Windows games, 64-bit and now 32-bit, on a stock, non-jailbroken iPhone. Install a game from your library onto the phone, pick up a controller and press Play. The game runs on the phone'
-- [TarbleFR/RewindBox](https://github.com/TarbleFR/RewindBox) - RewindBox 0.0.10 — independent iPhone/iPad emulation frontend forked from NeoStation, with embedded Libretro, MeloNX (Switch), Dolphin, ARMSX2 and RPCS3, HD textures, cheats and customizable controls.
+- [TarbleFR/RewindBox](https://github.com/TarbleFR/RewindBox) - RewindBox — independent iPhone/iPad frontend forked from NeoStation, with embedded RPCS3, MeloNX (Switch), Dolphin, ARMSX2 and Libretro; unified library, Pocket touch skins, cheats, HD textures and su
 - [TobiasFriedly/smg-gba](https://github.com/TobiasFriedly/smg-gba) - SMG GBA Project
 - [marvinvr/dusk-player](https://github.com/marvinvr/dusk-player) - The Plex App we Deserve.
 - [tristenlammi/Arrmada](https://github.com/tristenlammi/Arrmada) - One self-hosted app for all your media.
