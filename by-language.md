@@ -115,7 +115,7 @@
 ## Dart 
 
 - [matthw-labs/cupola](https://github.com/matthw-labs/cupola) - One app for your self-hosted media stack: Seerr, Radarr, Sonarr, qBittorrent, Jellyfin, Plex, TrueNAS and more. iPhone, Android and Mac. No account, no cloud. Formerly Seekarr.
-- [TarbleFR/RewindBox](https://github.com/TarbleFR/RewindBox) - RewindBox 0.0.10 — independent iPhone/iPad emulation frontend forked from NeoStation, with embedded Libretro, MeloNX (Switch), Dolphin, ARMSX2 and RPCS3, HD textures, cheats and customizable controls.
+- [TarbleFR/RewindBox](https://github.com/TarbleFR/RewindBox) - RewindBox — independent iPhone/iPad frontend forked from NeoStation, with embedded RPCS3, MeloNX (Switch), Dolphin, ARMSX2 and Libretro; unified library, Pocket touch skins, cheats, HD textures and su
 - [varunsalian/debrify](https://github.com/varunsalian/debrify) - Your personal media hub — browse, stream, and organize media from your own services and servers, with a cinematic built-in player. Android, Android TV, iOS, Windows, macOS, and Linux.
 - [mirarr-app/mirarr](https://github.com/mirarr-app/mirarr) - Mirarr, FOSS Movie App
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -203,7 +203,7 @@
 - [dfroberg/cluster](https://github.com/dfroberg/cluster) - Lab Cluster - Kubernetes (k3s) cluster managed by GitOps (Flux). Built on Proxmox using Terraform amd Ansible.
 - [dy2k/proxmox-kubernetes](https://github.com/dy2k/proxmox-kubernetes) - Deploy Kubernetes on Proxmox Ubuntu LXCs and VMs
 - [zimmertr/TJs-Kubernetes-Service](https://github.com/zimmertr/TJs-Kubernetes-Service) - Enable enthusiasts and administrators alike to easily provision highly available and production-ready Kubernetes clusters on Proxmox VE.
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated self-hosting platform, from empty disks to running services with a single command
 - [BarisGece/mHC](https://github.com/BarisGece/mHC) - The easy-way to create and manage a Mini Home Cloud. mHC is built using Shell, Proxmox-VE, Packer, Terraform, Ansible and is not completely reliable for Production environments.
 - [Aaron-K-T-Berry/packer-ubuntu-18-04-proxmox-template](https://github.com/Aaron-K-T-Berry/packer-ubuntu-18-04-proxmox-template) - This packer template will create an ubuntu 18.04 cloud init enabled proxmox template
 
