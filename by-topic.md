@@ -632,6 +632,7 @@
 
 ## docker 
 
+- [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) - One self-hosted app for your shows, movies and music.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [dinglebear-ai/rarcane](https://github.com/dinglebear-ai/rarcane) - Rust MCP server and CLI for Arcane Docker/container management, with action-dispatched tools, CLI parity, auth, and plugin packaging.
 - [Panonim/dynacat](https://github.com/Panonim/dynacat) - Dynacat is a dashboard focused on dynamic reloading and easy integration with external applications.
@@ -1403,7 +1404,7 @@
 - [mohankumarpaluru/oracle-freetier-instance-creation](https://github.com/mohankumarpaluru/oracle-freetier-instance-creation) - A script to create free instance
 - [aradhyas8/Plume_Launcher](https://github.com/aradhyas8/Plume_Launcher) - 🪶 A lightweight, ad-free launcher for Android TV and Google TV. 0.4 MB, no tracking, no ads. Downloader code: 2125356
 - [playportdev/playport](https://github.com/playportdev/playport) - Playport runs Windows games, 64-bit and now 32-bit, on a stock, non-jailbroken iPhone. Install a game from your library onto the phone, pick up a controller and press Play. The game runs on the phone'
-- [TarbleFR/RewindBox](https://github.com/TarbleFR/RewindBox) - RewindBox — independent iPhone/iPad frontend forked from NeoStation, with embedded RPCS3, MeloNX (Switch), Dolphin, ARMSX2 and Libretro; unified library, Pocket touch skins, cheats, HD textures and su
+- [TarbleFR/RewindBox](https://github.com/TarbleFR/RewindBox) - Emulation frontend for iPhone and iPad: one library, embedded engines, skins, achievements and per-game enhancements.
 - [TobiasFriedly/smg-gba](https://github.com/TobiasFriedly/smg-gba) - SMG GBA Project
 - [marvinvr/dusk-player](https://github.com/marvinvr/dusk-player) - The Plex App we Deserve.
 - [tristenlammi/Arrmada](https://github.com/tristenlammi/Arrmada) - One self-hosted app for all your media.
@@ -1851,6 +1852,7 @@
 
 ## self-hosted 
 
+- [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) - One self-hosted app for your shows, movies and music.
 - [braedonsaunders/ether](https://github.com/braedonsaunders/ether) - A media server that holds no media. One install serves Plex, Jellyfin, Emby, Infuse, Swiftfin, Silo and Stremio apps, streaming the TMDB catalogue on demand from your debrid accounts or Usenet.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
