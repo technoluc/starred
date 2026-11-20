@@ -639,6 +639,7 @@
 
 ## docker 
 
+- [filippofinke/sideloop](https://github.com/filippofinke/sideloop) - 📲 Self-hosted service that keeps sideloaded iOS apps signed with a free Apple ID, re-installing them over Wi-Fi before they expire.
 - [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) - One self-hosted app for your shows, movies and music.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [dinglebear-ai/rarcane](https://github.com/dinglebear-ai/rarcane) - Rust MCP server and CLI for Arcane Docker/container management, with action-dispatched tools, CLI parity, auth, and plugin packaging.
@@ -894,7 +895,6 @@
 
 ## hacking 
 
-- [Ymsniper/KTO](https://github.com/Ymsniper/KTO) - Rust WiFi deauth tool that kicks every device off a target network except the MACs you whitelist, continuously, with a live TUI and PMF/WPA3 support (CSA + reassociation).
 - [GH05T-HUNTER5/GH05T-INSTA](https://github.com/GH05T-HUNTER5/GH05T-INSTA) - Insta BruteForce { GH05T-INSTA 7.01 } Fork it...
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1001,6 +1001,7 @@
 
 ## ios 
 
+- [filippofinke/sideloop](https://github.com/filippofinke/sideloop) - 📲 Self-hosted service that keeps sideloaded iOS apps signed with a free Apple ID, re-installing them over Wi-Fi before they expire.
 - [cartouche-app/Cartouche](https://github.com/cartouche-app/Cartouche) - Your games, on iPhone, iPad and Mac: Cartouche installs, starts and keeps the games nxnative runs natively, from your own copies, and signs, renews and updates itself. On the Mac, Cartouche Builder bu
 - [matthw-labs/cupola](https://github.com/matthw-labs/cupola) - One app for your self-hosted media stack: Seerr, Radarr, Sonarr, qBittorrent, Jellyfin, Plex, TrueNAS and more. iPhone, Android and Mac. No account, no cloud. Formerly Seekarr.
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
@@ -1124,6 +1125,7 @@
 
 ## linux 
 
+- [filippofinke/sideloop](https://github.com/filippofinke/sideloop) - 📲 Self-hosted service that keeps sideloaded iOS apps signed with a free Apple ID, re-installing them over Wi-Fi before they expire.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [intelligentwolf/WolfScale](https://github.com/intelligentwolf/WolfScale) - Free tools for building robust, clustered server infrastructure — WolfStack, WolfScale, WolfDisk, WolfNet
 - [czoczo/BetterBash](https://github.com/czoczo/BetterBash) - A nice way to make Bash prompt more powerful!
@@ -1399,6 +1401,8 @@
 
 ## others 
 
+- [estyseesghosts/kohjoh](https://github.com/estyseesghosts/kohjoh) - Native HeartGold and SoulSilver port for Nintendo 3DS
+- [Slickmaxim/unbound-dual](https://github.com/Slickmaxim/unbound-dual) - 
 - [lidor30/pokedaisy](https://github.com/lidor30/pokedaisy) - A Game Boy, Game Boy Color and GBA player for Android handhelds with two screens or one, with a live companion for Pokémon games and ROM hacks.
 - [Absenti/NXPocketApple](https://github.com/Absenti/NXPocketApple) - Your own Switch games, built on your Mac, played on your iPhone. No keys, no firmware, no games included.
 - [Hound-Media-Server/hound](https://github.com/Hound-Media-Server/hound) - All-in-one Media Server—Find, watch, track, and manage your media
@@ -1441,6 +1445,7 @@
 - [Revisor01/abs-storytel-provider](https://github.com/Revisor01/abs-storytel-provider) - 
 - [jo1gi/grawlix](https://github.com/jo1gi/grawlix) - eBook cli downloader
 - [bartekmp/audiobook-dl-web](https://github.com/bartekmp/audiobook-dl-web) - Responsive web app wrapper for audiobook-dl for self-hosting and managing your downloads
+- [Ymsniper/KTO](https://github.com/Ymsniper/KTO) - Rust WiFi deauth tool that kicks every device off a target network except the MACs you whitelist, continuously, with a live TUI and PMF/WPA3 support (CSA + reassociation).
 - [Plus-Cloud/RomManager](https://github.com/Plus-Cloud/RomManager) - RomManager: a ROM downloader and ROM manager for the Miyoo Mini and Miyoo Mini Plus (OnionOS). Download your games and homebrew over Wi-Fi with box art, browse them in cover flow, and play them on the
 - [ZitaoTech/HackberryPiCM5](https://github.com/ZitaoTech/HackberryPiCM5) - An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard
 - [ZitaoTech/Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
@@ -1713,6 +1718,7 @@
 
 ## python 
 
+- [filippofinke/sideloop](https://github.com/filippofinke/sideloop) - 📲 Self-hosted service that keeps sideloaded iOS apps signed with a free Apple ID, re-installing them over Wi-Fi before they expire.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
 - [zamnzim/Libreseerr](https://github.com/zamnzim/Libreseerr) - Libreseerr is a book request management application for Readarr and LazyLibrarian. It provides a simple web interface for users to search for books and request ebook or audiobook downloads similar to 
@@ -1858,6 +1864,7 @@
 
 ## self-hosted 
 
+- [filippofinke/sideloop](https://github.com/filippofinke/sideloop) - 📲 Self-hosted service that keeps sideloaded iOS apps signed with a free Apple ID, re-installing them over Wi-Fi before they expire.
 - [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) - One self-hosted app for your shows, movies and music.
 - [braedonsaunders/ether](https://github.com/braedonsaunders/ether) - A media server that holds no media. One install serves Plex, Jellyfin, Emby, Infuse, Swiftfin, Silo and Stremio apps, streaming the TMDB catalogue on demand from your debrid accounts or Usenet.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
