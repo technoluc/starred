@@ -61,6 +61,9 @@
 
 ## C 
 
+- [bheppe/zelda-tmc-3ds](https://github.com/bheppe/zelda-tmc-3ds) - Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori
+- [estyseesghosts/kohjoh](https://github.com/estyseesghosts/kohjoh) - Native HeartGold and SoulSilver port for Nintendo 3DS
+- [Slickmaxim/unbound-dual](https://github.com/Slickmaxim/unbound-dual) - 
 - [TobiasFriedly/smg-gba](https://github.com/TobiasFriedly/smg-gba) - SMG GBA Project
 - [elliotttate/Wind-Waker-Recomp](https://github.com/elliotttate/Wind-Waker-Recomp) - Personal source fork of BlueWake for The Wind Waker on iPhone and iPad
 - [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT&gt;IP and unix pipe input sources
@@ -211,6 +214,7 @@
 
 ## HTML 
 
+- [filippofinke/sideloop](https://github.com/filippofinke/sideloop) - 📲 Self-hosted service that keeps sideloaded iOS apps signed with a free Apple ID, re-installing them over Wi-Fi before they expire.
 - [ZitaoTech/HackberryPiCM5](https://github.com/ZitaoTech/HackberryPiCM5) - An ultra portable handheld Linux device using Raspberry CM5 unit as Core with 4" 720X720 TFT Touch display and the original blackberry keyboard
 - [PenningLabs/lxconsole](https://github.com/PenningLabs/lxconsole) - LXD Graphical Web Console
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
