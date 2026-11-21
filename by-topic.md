@@ -661,6 +661,7 @@
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
 - [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
+- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated artwork maker & native Dynamic Overlays for Plex, Jellyfin, Emby & Silo.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
@@ -1401,6 +1402,7 @@
 
 ## others 
 
+- [bheppe/zelda-tmc-3ds](https://github.com/bheppe/zelda-tmc-3ds) - Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori
 - [estyseesghosts/kohjoh](https://github.com/estyseesghosts/kohjoh) - Native HeartGold and SoulSilver port for Nintendo 3DS
 - [Slickmaxim/unbound-dual](https://github.com/Slickmaxim/unbound-dual) - 
 - [lidor30/pokedaisy](https://github.com/lidor30/pokedaisy) - A Game Boy, Game Boy Color and GBA player for Android handhelds with two screens or one, with a live companion for Pokémon games and ROM hacks.
@@ -1474,7 +1476,6 @@
 - [assareh/home-lab](https://github.com/assareh/home-lab) - My home lab infrastructure with Nomad, Consul, and Vault
 - [tikibozo/plexarr](https://github.com/tikibozo/plexarr) - 
 - [cyb3rgh05t/plex-tautulli-dashboard](https://github.com/cyb3rgh05t/plex-tautulli-dashboard) - A modern, elegant dashboard for monitoring your Plex Media Server and Tautulli statistics, featuring a dark-themed UI with customizable displays and real-time monitoring.
-- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated asset maker for Plex, Jellyfin & Emby.
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [Rparadise-Team/Koriki](https://github.com/Rparadise-Team/Koriki) - SimpleMenu frontend for Miyoo Mini
 - [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Flyoobe is the Control Panel for setting up Windows
@@ -1881,6 +1882,7 @@
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
+- [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated artwork maker & native Dynamic Overlays for Plex, Jellyfin, Emby & Silo.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted, plugin-based server management.
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
