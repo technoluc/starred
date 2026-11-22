@@ -641,6 +641,7 @@
 
 - [filippofinke/sideloop](https://github.com/filippofinke/sideloop) - 📲 Self-hosted service that keeps sideloaded iOS apps signed with a free Apple ID, re-installing them over Wi-Fi before they expire.
 - [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) - One self-hosted app for your shows, movies and music.
+- [new-usemame/Calibre-Web-NextGen](https://github.com/new-usemame/Calibre-Web-NextGen) - Self-hosted Calibre ebook library for browsers and e-readers, with automatic imports, Kobo and KOReader sync, and OPDS. A community continuation of Calibre-Web-Automated.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [dinglebear-ai/rarcane](https://github.com/dinglebear-ai/rarcane) - Rust MCP server and CLI for Arcane Docker/container management, with action-dispatched tools, CLI parity, auth, and plugin packaging.
 - [Panonim/dynacat](https://github.com/Panonim/dynacat) - Dynacat is a dashboard focused on dynamic reloading and easy integration with external applications.
@@ -974,6 +975,8 @@
 
 ## homebrew 
 
+- [EstebanPdN/zelda-alttp-3ds](https://github.com/EstebanPdN/zelda-alttp-3ds) - Nintendo 3DS dual-screen port of Zelda A Link to the Past based on zelda3
+- [EstebanPdN/zelda-tmc-3ds](https://github.com/EstebanPdN/zelda-tmc-3ds) - Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori
 - [ankushKun/3dsDL](https://github.com/ankushKun/3dsDL) - Download files straight onto your Nintendo 3DS from a URL or QR code
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [snyderman3000/mixtape](https://github.com/snyderman3000/mixtape) - App store for OnionOS on the Miyoo Mini Plus: browse, install and update community ports over Wi-Fi. Built by Claude.
@@ -1402,13 +1405,14 @@
 
 ## others 
 
+- [StonedModder/MegaNTR](https://github.com/StonedModder/MegaNTR) - 3DS Cheat Database (454 games)
+- [ZallaxDev/emerald-3ds](https://github.com/ZallaxDev/emerald-3ds) - Native Pokémon Emerald port for Nintendo 3DS, featuring dual-screen gameplay, stereoscopic 3D, and a fully 3D world.
 - [bheppe/zelda-tmc-3ds](https://github.com/bheppe/zelda-tmc-3ds) - Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori
 - [estyseesghosts/kohjoh](https://github.com/estyseesghosts/kohjoh) - Native HeartGold and SoulSilver port for Nintendo 3DS
 - [Slickmaxim/unbound-dual](https://github.com/Slickmaxim/unbound-dual) - 
 - [lidor30/pokedaisy](https://github.com/lidor30/pokedaisy) - A Game Boy, Game Boy Color and GBA player for Android handhelds with two screens or one, with a live companion for Pokémon games and ROM hacks.
 - [Absenti/NXPocketApple](https://github.com/Absenti/NXPocketApple) - Your own Switch games, built on your Mac, played on your iPhone. No keys, no firmware, no games included.
 - [Hound-Media-Server/hound](https://github.com/Hound-Media-Server/hound) - All-in-one Media Server—Find, watch, track, and manage your media
-- [new-usemame/Calibre-Web-NextGen](https://github.com/new-usemame/Calibre-Web-NextGen) - Community continuation of Calibre-Web-Automated. Attempting to maintain with rapid iteration. Please feel free to help out by filing Issues, Feature Requests, PRs, and chatting in our Discussion.
 - [coollabsio/openclaw](https://github.com/coollabsio/openclaw) - Fully featured & automated OpenClaw docker images
 - [Wranglarrr/Wranglarr](https://github.com/Wranglarrr/Wranglarr) - Your whole *arr stack on Postgres, with backups you can actually restore.
 - [Cinephage/Cinephage](https://github.com/Cinephage/Cinephage) - The AIO solution to your self hosted media gathering needs
@@ -1867,6 +1871,7 @@
 
 - [filippofinke/sideloop](https://github.com/filippofinke/sideloop) - 📲 Self-hosted service that keeps sideloaded iOS apps signed with a free Apple ID, re-installing them over Wi-Fi before they expire.
 - [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) - One self-hosted app for your shows, movies and music.
+- [new-usemame/Calibre-Web-NextGen](https://github.com/new-usemame/Calibre-Web-NextGen) - Self-hosted Calibre ebook library for browsers and e-readers, with automatic imports, Kobo and KOReader sync, and OPDS. A community continuation of Calibre-Web-Automated.
 - [braedonsaunders/ether](https://github.com/braedonsaunders/ether) - A media server that holds no media. One install serves Plex, Jellyfin, Emby, Infuse, Swiftfin, Silo and Stremio apps, streaming the TMDB catalogue on demand from your debrid accounts or Usenet.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
