@@ -1405,6 +1405,9 @@
 
 ## others 
 
+- [Amiga500/Onion](https://github.com/Amiga500/Onion) - Like Onion but faster, safer and smarter - with more features and cores. Supported devices: Miyoo Mini, Mini v4, Mini Plus and Mini Flip
+- [jojobt55/MiyooMiniPlus-CoolTools](https://github.com/jojobt55/MiyooMiniPlus-CoolTools) - Allows you to browse your game series in MM+
+- [meerok/MeerCheatManager3ds](https://github.com/meerok/MeerCheatManager3ds) - 
 - [StonedModder/MegaNTR](https://github.com/StonedModder/MegaNTR) - 3DS Cheat Database (454 games)
 - [ZallaxDev/emerald-3ds](https://github.com/ZallaxDev/emerald-3ds) - Native Pokémon Emerald port for Nintendo 3DS, featuring dual-screen gameplay, stereoscopic 3D, and a fully 3D world.
 - [bheppe/zelda-tmc-3ds](https://github.com/bheppe/zelda-tmc-3ds) - Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori
@@ -1418,7 +1421,7 @@
 - [Cinephage/Cinephage](https://github.com/Cinephage/Cinephage) - The AIO solution to your self hosted media gathering needs
 - [seedds/nxnative](https://github.com/seedds/nxnative) - Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)
 - [mohankumarpaluru/oracle-freetier-instance-creation](https://github.com/mohankumarpaluru/oracle-freetier-instance-creation) - A script to create free instance
-- [aradhyas8/Plume_Launcher](https://github.com/aradhyas8/Plume_Launcher) - 🪶 A lightweight, ad-free launcher for Android TV and Google TV. 0.4 MB, no tracking, no ads. Downloader code: 2125356
+- [aradhyas8/Plume_Launcher](https://github.com/aradhyas8/Plume_Launcher) - 🪶 A lightweight, ad-free launcher for Android TV and Google TV. No tracking, no ads. Downloader code: 2125356
 - [playportdev/playport](https://github.com/playportdev/playport) - Playport runs Windows games, 64-bit and now 32-bit, on a stock, non-jailbroken iPhone. Install a game from your library onto the phone, pick up a controller and press Play. The game runs on the phone'
 - [TarbleFR/RewindBox](https://github.com/TarbleFR/RewindBox) - Emulation frontend for iPhone and iPad: one library, embedded engines, skins, achievements and per-game enhancements.
 - [TobiasFriedly/smg-gba](https://github.com/TobiasFriedly/smg-gba) - SMG GBA Project
