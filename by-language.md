@@ -61,6 +61,8 @@
 
 ## C 
 
+- [Amiga500/Onion](https://github.com/Amiga500/Onion) - Like Onion but faster, safer and smarter - with more features and cores. Supported devices: Miyoo Mini, Mini v4, Mini Plus and Mini Flip
+- [jojobt55/MiyooMiniPlus-CoolTools](https://github.com/jojobt55/MiyooMiniPlus-CoolTools) - Allows you to browse your game series in MM+
 - [EstebanPdN/zelda-alttp-3ds](https://github.com/EstebanPdN/zelda-alttp-3ds) - Nintendo 3DS dual-screen port of Zelda A Link to the Past based on zelda3
 - [EstebanPdN/zelda-tmc-3ds](https://github.com/EstebanPdN/zelda-tmc-3ds) - Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori
 - [bheppe/zelda-tmc-3ds](https://github.com/bheppe/zelda-tmc-3ds) - Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori
@@ -97,6 +99,7 @@
 
 ## C++ 
 
+- [meerok/MeerCheatManager3ds](https://github.com/meerok/MeerCheatManager3ds) - 
 - [ankushKun/3dsDL](https://github.com/ankushKun/3dsDL) - Download files straight onto your Nintendo 3DS from a URL or QR code
 - [MegaNexusMediaPlayer/MegaNexus](https://github.com/MegaNexusMediaPlayer/MegaNexus) - MegaNexus for Kodi — a streaming app on Kodi's player: Stremio & Nuvio add-ons, debrid, AI subtitles, Watch Party, live TV. Set up from your phone.
 - [Provenance-Emu/Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  |
