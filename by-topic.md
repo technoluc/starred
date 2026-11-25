@@ -166,6 +166,7 @@
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [shell](#shell)
+- [skills](#skills)
 - [software](#software)
 - [sql](#sql)
 - [sqlite](#sqlite)
@@ -1282,6 +1283,7 @@
 
 ## mcp 
 
+- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码）
 - [dinglebear-ai/rarcane](https://github.com/dinglebear-ai/rarcane) - Rust MCP server and CLI for Arcane Docker/container management, with action-dispatched tools, CLI parity, auth, and plugin packaging.
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [aplaceforallmystuff/mcp-arr](https://github.com/aplaceforallmystuff/mcp-arr) - MCP server for *arr media management suite
@@ -1405,13 +1407,18 @@
 
 ## others 
 
+- [ThemezerNX/Themezer-3DS](https://github.com/ThemezerNX/Themezer-3DS) - A 3DS theme manager that can also pull from https://themezer.net/ and https://themeplaza.art/
+- [unowncollectables/Pokemon-HeartGold-SoulSilver-New3ds](https://github.com/unowncollectables/Pokemon-HeartGold-SoulSilver-New3ds) - Native New Nintendo 3DS port of Pokémon HeartGold & SoulSilver (HGSS) built from the pret decompilation: stereoscopic 3D, Wide View, touch-screen Pokégear map/party/bag, GTS & Mystery Gift. Bring your
+- [maaquin/links_awakening_3ds](https://github.com/maaquin/links_awakening_3ds) - A Nintendo 3DS reimagining of The Legend of Zelda: Link's Awakening DX, featuring a continuous world, stereoscopic 3D, dual-screen functionality, and an enhanced interface.
+- [NachoGonzalez2001/Pokemon-FireRed-3DS](https://github.com/NachoGonzalez2001/Pokemon-FireRed-3DS) - 
+- [GabeSud0/pokeplatinum-3ds](https://github.com/GabeSud0/pokeplatinum-3ds) - Native Nintendo 3DS port of Pokémon Platinum, built from the pret decompilation: higher-resolution widescreen 3D, stereoscopic depth, and a touch UI
 - [Amiga500/Onion](https://github.com/Amiga500/Onion) - Like Onion but faster, safer and smarter - with more features and cores. Supported devices: Miyoo Mini, Mini v4, Mini Plus and Mini Flip
 - [jojobt55/MiyooMiniPlus-CoolTools](https://github.com/jojobt55/MiyooMiniPlus-CoolTools) - Allows you to browse your game series in MM+
 - [meerok/MeerCheatManager3ds](https://github.com/meerok/MeerCheatManager3ds) - 
 - [StonedModder/MegaNTR](https://github.com/StonedModder/MegaNTR) - 3DS Cheat Database (454 games)
 - [ZallaxDev/emerald-3ds](https://github.com/ZallaxDev/emerald-3ds) - Native Pokémon Emerald port for Nintendo 3DS, featuring dual-screen gameplay, stereoscopic 3D, and a fully 3D world.
 - [bheppe/zelda-tmc-3ds](https://github.com/bheppe/zelda-tmc-3ds) - Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori
-- [estyseesghosts/kohjoh](https://github.com/estyseesghosts/kohjoh) - Native HeartGold and SoulSilver port for Nintendo 3DS
+- [estyseesghosts/kohjoh](https://github.com/estyseesghosts/kohjoh) - a homebrew port of pokemon heartgold and soulsilver for the old nintendo 3DS
 - [Slickmaxim/unbound-dual](https://github.com/Slickmaxim/unbound-dual) - 
 - [lidor30/pokedaisy](https://github.com/lidor30/pokedaisy) - A Game Boy, Game Boy Color and GBA player for Android handhelds with two screens or one, with a live companion for Pokémon games and ROM hacks.
 - [Absenti/NXPocketApple](https://github.com/Absenti/NXPocketApple) - Your own Switch games, built on your Mac, played on your iPhone. No keys, no firmware, no games included.
@@ -1950,6 +1957,10 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
+
+## skills 
+
+- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码）
 
 ## software 
 
