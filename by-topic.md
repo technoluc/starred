@@ -976,6 +976,8 @@
 
 ## homebrew 
 
+- [AureoLightz/CitroWaker](https://github.com/AureoLightz/CitroWaker) - An experimental native Wind Waker port for New Nintendo 3DS. Built on SwitchWaker and Aurora, with a GX-to-PICA renderer.
+- [EstebanPdN/dusklight-3ds](https://github.com/EstebanPdN/dusklight-3ds) - Experimental native New Nintendo 3DS port work for Twilight Princess, based on Dusklight. Current source only; no binary release.
 - [EstebanPdN/zelda-alttp-3ds](https://github.com/EstebanPdN/zelda-alttp-3ds) - Nintendo 3DS dual-screen port of Zelda A Link to the Past based on zelda3
 - [EstebanPdN/zelda-tmc-3ds](https://github.com/EstebanPdN/zelda-tmc-3ds) - Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori
 - [ankushKun/3dsDL](https://github.com/ankushKun/3dsDL) - Download files straight onto your Nintendo 3DS from a URL or QR code
@@ -1006,8 +1008,9 @@
 
 ## ios 
 
+- [Absenti/iBuilder](https://github.com/Absenti/iBuilder) - Build Switch games you own into a native iOS app, on the iPhone itself. Rust chain + .NET iOS app.
 - [filippofinke/sideloop](https://github.com/filippofinke/sideloop) - 📲 Self-hosted service that keeps sideloaded iOS apps signed with a free Apple ID, re-installing them over Wi-Fi before they expire.
-- [cartouche-app/Cartouche](https://github.com/cartouche-app/Cartouche) - Your games, on iPhone, iPad and Mac: Cartouche installs, starts and keeps the games nxnative runs natively, from your own copies, and signs, renews and updates itself. On the Mac, Cartouche Builder bu
+- [cartouche-app/Cartouche](https://github.com/cartouche-app/Cartouche) - Play the Switch games nxnative runs natively on iPhone, iPad and Mac. Cartouche installs, signs, starts and updates them from your own copies, with a free Apple account; Cartouche for Mac builds them.
 - [matthw-labs/cupola](https://github.com/matthw-labs/cupola) - One app for your self-hosted media stack: Seerr, Radarr, Sonarr, qBittorrent, Jellyfin, Plex, TrueNAS and more. iPhone, Android and Mac. No account, no cloud. Formerly Seekarr.
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
 - [Leviidev/Husk](https://github.com/Leviidev/Husk) - Run Android on iOS. Natively or Emulated.
@@ -1195,7 +1198,7 @@
 
 ## macos 
 
-- [cartouche-app/Cartouche](https://github.com/cartouche-app/Cartouche) - Your games, on iPhone, iPad and Mac: Cartouche installs, starts and keeps the games nxnative runs natively, from your own copies, and signs, renews and updates itself. On the Mac, Cartouche Builder bu
+- [cartouche-app/Cartouche](https://github.com/cartouche-app/Cartouche) - Play the Switch games nxnative runs natively on iPhone, iPad and Mac. Cartouche installs, signs, starts and updates them from your own copies, with a free Apple account; Cartouche for Mac builds them.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [brillcp/Networking](https://github.com/brillcp/Networking) - Networking is a lightweight and powerful HTTP network framework written in Swift
 - [migueldeicaza/SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - Xterm/VT100 Terminal emulator library in Swift with AppKit, UIKit, WebAssembly, Web, headless frontends.
@@ -1242,6 +1245,7 @@
 - [bkuhlmann/mac_os-config](https://github.com/bkuhlmann/mac_os-config) - Shell scripts for customized macOS machine setup.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [mizorewww/Rayon](https://github.com/mizorewww/Rayon) - Native macOS SSH terminal, SFTP, and live server monitor built on Ghostty.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1407,6 +1411,8 @@
 
 ## others 
 
+- [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
+- [tinaut1986/NSA](https://github.com/tinaut1986/NSA) - Open source title manager for the Nintendo 3DS: install CIAs, manage titles and files, and send games to another 3DS. Based on FBI.
 - [ThemezerNX/Themezer-3DS](https://github.com/ThemezerNX/Themezer-3DS) - A 3DS theme manager that can also pull from https://themezer.net/ and https://themeplaza.art/
 - [unowncollectables/Pokemon-HeartGold-SoulSilver-New3ds](https://github.com/unowncollectables/Pokemon-HeartGold-SoulSilver-New3ds) - Native New Nintendo 3DS port of Pokémon HeartGold & SoulSilver (HGSS) built from the pret decompilation: stereoscopic 3D, Wide View, touch-screen Pokégear map/party/bag, GTS & Mystery Gift. Bring your
 - [maaquin/links_awakening_3ds](https://github.com/maaquin/links_awakening_3ds) - A Nintendo 3DS reimagining of The Legend of Zelda: Link's Awakening DX, featuring a continuous world, stereoscopic 3D, dual-screen functionality, and an enhanced interface.
@@ -1420,7 +1426,6 @@
 - [bheppe/zelda-tmc-3ds](https://github.com/bheppe/zelda-tmc-3ds) - Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori
 - [estyseesghosts/kohjoh](https://github.com/estyseesghosts/kohjoh) - a homebrew port of pokemon heartgold and soulsilver for the old nintendo 3DS
 - [Slickmaxim/unbound-dual](https://github.com/Slickmaxim/unbound-dual) - 
-- [lidor30/pokedaisy](https://github.com/lidor30/pokedaisy) - A Game Boy, Game Boy Color and GBA player for Android handhelds with two screens or one, with a live companion for Pokémon games and ROM hacks.
 - [Absenti/NXPocketApple](https://github.com/Absenti/NXPocketApple) - Your own Switch games, built on your Mac, played on your iPhone. No keys, no firmware, no games included.
 - [Hound-Media-Server/hound](https://github.com/Hound-Media-Server/hound) - All-in-one Media Server—Find, watch, track, and manage your media
 - [coollabsio/openclaw](https://github.com/coollabsio/openclaw) - Fully featured & automated OpenClaw docker images
@@ -1489,7 +1494,6 @@
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Advanced download manager for the Servarr ecosystem
 - [assareh/home-lab](https://github.com/assareh/home-lab) - My home lab infrastructure with Nomad, Consul, and Vault
 - [tikibozo/plexarr](https://github.com/tikibozo/plexarr) - 
-- [cyb3rgh05t/plex-tautulli-dashboard](https://github.com/cyb3rgh05t/plex-tautulli-dashboard) - A modern, elegant dashboard for monitoring your Plex Media Server and Tautulli statistics, featuring a dark-themed UI with customizable displays and real-time monitoring.
 - [nzbdav-dev/nzbdav](https://github.com/nzbdav-dev/nzbdav) - Usenet streaming with a WebDAV server and a SABnzbd-compatible API
 - [Rparadise-Team/Koriki](https://github.com/Rparadise-Team/Koriki) - SimpleMenu frontend for Miyoo Mini
 - [builtbybel/Flyoobe](https://github.com/builtbybel/Flyoobe) - Flyoobe is the Control Panel for setting up Windows
@@ -1600,7 +1604,6 @@
 - [vicalloy/telegram-shell-bot](https://github.com/vicalloy/telegram-shell-bot) - A telegram Bot to run shell commands
 - [glebmk/ssh-over-telegram](https://github.com/glebmk/ssh-over-telegram) - 
 - [giano/Telegrammer](https://github.com/giano/Telegrammer) - Manage your device or server using Telegram. Two way communication!
-- [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
 - [petio-team/petio](https://github.com/petio-team/petio) - Petio Request, Discover, Review
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
@@ -1845,6 +1848,7 @@
 
 ## rust 
 
+- [Absenti/iBuilder](https://github.com/Absenti/iBuilder) - Build Switch games you own into a native iOS app, on the iPhone itself. Rust chain + .NET iOS app.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [dinglebear-ai/rarcane](https://github.com/dinglebear-ai/rarcane) - Rust MCP server and CLI for Arcane Docker/container management, with action-dispatched tools, CLI parity, auth, and plugin packaging.
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - Single Sign-On Identity & Access Management via OpenID Connect, OAuth 2, PAM
@@ -2031,11 +2035,12 @@
 - [Bunn/macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+- [mizorewww/Rayon](https://github.com/mizorewww/Rayon) - Native macOS SSH terminal, SFTP, and live server monitor built on Ghostty.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 ## swiftui 
 
-- [cartouche-app/Cartouche](https://github.com/cartouche-app/Cartouche) - Your games, on iPhone, iPad and Mac: Cartouche installs, starts and keeps the games nxnative runs natively, from your own copies, and signs, renews and updates itself. On the Mac, Cartouche Builder bu
+- [cartouche-app/Cartouche](https://github.com/cartouche-app/Cartouche) - Play the Switch games nxnative runs natively on iPhone, iPad and Mac. Cartouche installs, signs, starts and updates them from your own copies, with a free Apple account; Cartouche for Mac builds them.
 - [momenbasel/PureMac](https://github.com/momenbasel/PureMac) - Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
 - [leonardob8777-bit/Eagle](https://github.com/leonardob8777-bit/Eagle) - Experimental iOS personalization powered by DarkSword
 - [prehakanson-art/OrivioTVAppleTV](https://github.com/prehakanson-art/OrivioTVAppleTV) - Native SwiftUI tvOS media player — addon + debrid streaming, KSPlayer/FFmpeg/VLC playback, Infuse-style Siri-remote scrubbing, Trakt/TMDB, and Nuvio account sync.
@@ -2089,6 +2094,7 @@
 - [artginzburg/sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+- [mizorewww/Rayon](https://github.com/mizorewww/Rayon) - Native macOS SSH terminal, SFTP, and live server monitor built on Ghostty.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
