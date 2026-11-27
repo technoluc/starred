@@ -61,6 +61,11 @@
 
 ## C 
 
+- [tinaut1986/NSA](https://github.com/tinaut1986/NSA) - Open source title manager for the Nintendo 3DS: install CIAs, manage titles and files, and send games to another 3DS. Based on FBI.
+- [unowncollectables/Pokemon-HeartGold-SoulSilver-New3ds](https://github.com/unowncollectables/Pokemon-HeartGold-SoulSilver-New3ds) - Native New Nintendo 3DS port of Pokémon HeartGold & SoulSilver (HGSS) built from the pret decompilation: stereoscopic 3D, Wide View, touch-screen Pokégear map/party/bag, GTS & Mystery Gift. Bring your
+- [maaquin/links_awakening_3ds](https://github.com/maaquin/links_awakening_3ds) - A Nintendo 3DS reimagining of The Legend of Zelda: Link's Awakening DX, featuring a continuous world, stereoscopic 3D, dual-screen functionality, and an enhanced interface.
+- [NachoGonzalez2001/Pokemon-FireRed-3DS](https://github.com/NachoGonzalez2001/Pokemon-FireRed-3DS) - 
+- [GabeSud0/pokeplatinum-3ds](https://github.com/GabeSud0/pokeplatinum-3ds) - Native Nintendo 3DS port of Pokémon Platinum, built from the pret decompilation: higher-resolution widescreen 3D, stereoscopic depth, and a touch UI
 - [Amiga500/Onion](https://github.com/Amiga500/Onion) - Like Onion but faster, safer and smarter - with more features and cores. Supported devices: Miyoo Mini, Mini v4, Mini Plus and Mini Flip
 - [jojobt55/MiyooMiniPlus-CoolTools](https://github.com/jojobt55/MiyooMiniPlus-CoolTools) - Allows you to browse your game series in MM+
 - [EstebanPdN/zelda-alttp-3ds](https://github.com/EstebanPdN/zelda-alttp-3ds) - Nintendo 3DS dual-screen port of Zelda A Link to the Past based on zelda3
@@ -99,6 +104,9 @@
 
 ## C++ 
 
+- [AureoLightz/CitroWaker](https://github.com/AureoLightz/CitroWaker) - An experimental native Wind Waker port for New Nintendo 3DS. Built on SwitchWaker and Aurora, with a GX-to-PICA renderer.
+- [EstebanPdN/dusklight-3ds](https://github.com/EstebanPdN/dusklight-3ds) - Experimental native New Nintendo 3DS port work for Twilight Princess, based on Dusklight. Current source only; no binary release.
+- [ThemezerNX/Themezer-3DS](https://github.com/ThemezerNX/Themezer-3DS) - A 3DS theme manager that can also pull from https://themezer.net/ and https://themeplaza.art/
 - [meerok/MeerCheatManager3ds](https://github.com/meerok/MeerCheatManager3ds) - 
 - [ankushKun/3dsDL](https://github.com/ankushKun/3dsDL) - Download files straight onto your Nintendo 3DS from a URL or QR code
 - [MegaNexusMediaPlayer/MegaNexus](https://github.com/MegaNexusMediaPlayer/MegaNexus) - MegaNexus for Kodi — a streaming app on Kodi's player: Stremio & Nuvio add-ons, debrid, AI subtitles, Watch Party, live TV. Set up from your phone.
@@ -245,6 +253,7 @@
 
 ## JavaScript 
 
+- [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 - [coollabsio/openclaw](https://github.com/coollabsio/openclaw) - Fully featured & automated OpenClaw docker images
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
@@ -261,7 +270,6 @@
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr) - Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
-- [cyb3rgh05t/plex-tautulli-dashboard](https://github.com/cyb3rgh05t/plex-tautulli-dashboard) - A modern, elegant dashboard for monitoring your Plex Media Server and Tautulli statistics, featuring a dark-themed UI with customizable displays and real-time monitoring.
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [s1varam/pokedex](https://github.com/s1varam/pokedex) - A simple Pokémon catalogue, built with React, Material-UI and PokéAPI.
 - [kotcrab/xdelta-wasm](https://github.com/kotcrab/xdelta-wasm) - Online xdelta and xdelta3 patcher
@@ -305,7 +313,6 @@
 
 ## Kotlin 
 
-- [lidor30/pokedaisy](https://github.com/lidor30/pokedaisy) - A Game Boy, Game Boy Color and GBA player for Android handhelds with two screens or one, with a live companion for Pokémon games and ROM hacks.
 - [aradhyas8/Plume_Launcher](https://github.com/aradhyas8/Plume_Launcher) - 🪶 A lightweight, ad-free launcher for Android TV and Google TV. No tracking, no ads. Downloader code: 2125356
 - [albertovinaroz/NuvioPro](https://github.com/albertovinaroz/NuvioPro) - Unofficial Nuvio Mobile repository to build Nuvio with experimental features, improvements, and bug fixes not yet availabe in the official repository.
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin
@@ -414,6 +421,7 @@
 
 ## Python 
 
+- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码）
 - [ZallaxDev/emerald-3ds](https://github.com/ZallaxDev/emerald-3ds) - Native Pokémon Emerald port for Nintendo 3DS, featuring dual-screen gameplay, stereoscopic 3D, and a fully 3D world.
 - [Anyesh/wardrowbe](https://github.com/Anyesh/wardrowbe) - Put your wardrobe in rows. Self-hosted AI-powered wardrobe management app.
 - [new-usemame/Calibre-Web-NextGen](https://github.com/new-usemame/Calibre-Web-NextGen) - Self-hosted Calibre ebook library for browsers and e-readers, with automatic imports, Kobo and KOReader sync, and OPDS. A community continuation of Calibre-Web-Automated.
@@ -541,6 +549,7 @@
 
 ## Rust 
 
+- [Absenti/iBuilder](https://github.com/Absenti/iBuilder) - Build Switch games you own into a native iOS app, on the iPhone itself. Rust chain + .NET iOS app.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [Wranglarrr/Wranglarr](https://github.com/Wranglarrr/Wranglarr) - Your whole *arr stack on Postgres, with backups you can actually restore.
 - [dinglebear-ai/rarcane](https://github.com/dinglebear-ai/rarcane) - Rust MCP server and CLI for Arcane Docker/container management, with action-dispatched tools, CLI parity, auth, and plugin packaging.
@@ -657,7 +666,7 @@
 
 ## Swift 
 
-- [cartouche-app/Cartouche](https://github.com/cartouche-app/Cartouche) - Your games, on iPhone, iPad and Mac: Cartouche installs, starts and keeps the games nxnative runs natively, from your own copies, and signs, renews and updates itself. On the Mac, Cartouche Builder bu
+- [cartouche-app/Cartouche](https://github.com/cartouche-app/Cartouche) - Play the Switch games nxnative runs natively on iPhone, iPad and Mac. Cartouche installs, signs, starts and updates them from your own copies, with a free Apple account; Cartouche for Mac builds them.
 - [Absenti/NXPocketApple](https://github.com/Absenti/NXPocketApple) - Your own Switch games, built on your Mac, played on your iPhone. No keys, no firmware, no games included.
 - [playportdev/playport](https://github.com/playportdev/playport) - Playport runs Windows games, 64-bit and now 32-bit, on a stock, non-jailbroken iPhone. Install a game from your library onto the phone, pick up a controller and press Play. The game runs on the phone'
 - [marvinvr/dusk-player](https://github.com/marvinvr/dusk-player) - The Plex App we Deserve.
@@ -718,7 +727,7 @@
 - [arixegal/BlackEye](https://github.com/arixegal/BlackEye) - An iOS application that secretly takes photos while the screen appears to be turned-off
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
+- [mizorewww/Rayon](https://github.com/mizorewww/Rayon) - Native macOS SSH terminal, SFTP, and live server monitor built on Ghostty.
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
