@@ -104,6 +104,7 @@
 
 ## C++ 
 
+- [renzyxx/WacOS](https://github.com/renzyxx/WacOS) - A macOS-style desktop shell for Windows 11: menu bar, Dock, Finder, Spotlight, Control Center and Liquid Glass, in native C++.
 - [AureoLightz/CitroWaker](https://github.com/AureoLightz/CitroWaker) - An experimental native Wind Waker port for New Nintendo 3DS. Built on SwitchWaker and Aurora, with a GX-to-PICA renderer.
 - [EstebanPdN/dusklight-3ds](https://github.com/EstebanPdN/dusklight-3ds) - Experimental native New Nintendo 3DS port work for Twilight Princess, based on Dusklight. Current source only; no binary release.
 - [ThemezerNX/Themezer-3DS](https://github.com/ThemezerNX/Themezer-3DS) - A 3DS theme manager that can also pull from https://themezer.net/ and https://themeplaza.art/
@@ -174,6 +175,7 @@
 
 ## Go 
 
+- [2hjaito/davish](https://github.com/2hjaito/davish) - Your server, as a desktop. A lightweight SSH client with an OS-like UI. Nothing to install on the server.
 - [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) - One self-hosted app for your shows, movies and music.
 - [Hound-Media-Server/hound](https://github.com/Hound-Media-Server/hound) - All-in-one Media Server—Find, watch, track, and manage your media
 - [braedonsaunders/ether](https://github.com/braedonsaunders/ether) - A media server that holds no media. One install serves Plex, Jellyfin, Emby, Infuse, Swiftfin, Silo and Stremio apps, streaming the TMDB catalogue on demand from your debrid accounts or Usenet.
@@ -666,6 +668,7 @@
 
 ## Swift 
 
+- [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller) - An an app that installs Sidestore on iOS 27, fully on-device
 - [cartouche-app/Cartouche](https://github.com/cartouche-app/Cartouche) - Play the Switch games nxnative runs natively on iPhone, iPad and Mac. Cartouche installs, signs, starts and updates them from your own copies, with a free Apple account; Cartouche for Mac builds them.
 - [Absenti/NXPocketApple](https://github.com/Absenti/NXPocketApple) - Your own Switch games, built on your Mac, played on your iPhone. No keys, no firmware, no games included.
 - [playportdev/playport](https://github.com/playportdev/playport) - Playport runs Windows games, 64-bit and now 32-bit, on a stock, non-jailbroken iPhone. Install a game from your library onto the phone, pick up a controller and press Play. The game runs on the phone'
